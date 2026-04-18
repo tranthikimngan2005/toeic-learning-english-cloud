@@ -1,0 +1,1027 @@
+[
+  {
+    "part": 5,
+    "level": 520,
+    "question_text": "The annual budget proposal must be submitted to the finance committee by Friday to avoid project delays.",
+    "options": [
+      "submit",
+      "submitted",
+      "submitting",
+      "submission"
+    ],
+    "correct_answer": "submitted",
+    "explanation": "Sau động từ khuyết thiếu bị động 'must be', ta cần quá khứ phân từ. 'Submitted' tạo cấu trúc bị động đúng: must be submitted.",
+    "passage": null,
+    "tags": [
+      "part5",
+      "grammar",
+      "passive_voice"
+    ]
+  },
+  {
+    "part": 5,
+    "level": 540,
+    "question_text": "Ms. Ortega is responsible for ensuring that all customer complaints are handled promptly and professionally.",
+    "options": [
+      "response",
+      "responsible",
+      "responsibly",
+      "responsibility"
+    ],
+    "correct_answer": "responsible",
+    "explanation": "Sau 'is' cần tính từ để mô tả trạng thái/chức năng của chủ ngữ. Cụm cố định là 'be responsible for'.",
+    "passage": null,
+    "tags": [
+      "part5",
+      "vocabulary",
+      "collocation"
+    ]
+  },
+  {
+    "part": 5,
+    "level": 560,
+    "question_text": "Because the marketing team worked efficiently, the campaign was launched ahead of schedule.",
+    "options": [
+      "efficient",
+      "efficiently",
+      "efficiency",
+      "inefficient"
+    ],
+    "correct_answer": "efficiently",
+    "explanation": "Động từ 'worked' cần được bổ nghĩa bằng trạng từ, nên chọn 'efficiently'.",
+    "passage": null,
+    "tags": [
+      "part5",
+      "grammar",
+      "adverb"
+    ]
+  },
+  {
+    "part": 5,
+    "level": 580,
+    "question_text": "The board postponed the decision until additional market data became available.",
+    "options": [
+      "until",
+      "during",
+      "despite",
+      "unless"
+    ],
+    "correct_answer": "until",
+    "explanation": "Câu diễn tả hành động hoãn lại 'cho đến khi' có thêm dữ liệu, nên dùng liên từ thời gian 'until'.",
+    "passage": null,
+    "tags": [
+      "part5",
+      "grammar",
+      "conjunction"
+    ]
+  },
+  {
+    "part": 5,
+    "level": 600,
+    "question_text": "Employees are encouraged to update their security passwords on a regular basis.",
+    "options": [
+      "regular",
+      "regularly",
+      "regulation",
+      "regularity"
+    ],
+    "correct_answer": "regular",
+    "explanation": "Cụm cố định là 'on a regular basis' (một cách thường xuyên). Vì vậy cần tính từ 'regular' đứng trước danh từ 'basis'.",
+    "passage": null,
+    "tags": [
+      "part5",
+      "vocabulary",
+      "fixed_expression"
+    ]
+  },
+  {
+    "part": 5,
+    "level": 620,
+    "question_text": "Neither the printer nor the scanners are functioning properly this morning.",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "be"
+    ],
+    "correct_answer": "are",
+    "explanation": "Với cấu trúc 'neither A nor B', động từ hòa hợp với chủ ngữ gần nhất. 'Scanners' là số nhiều nên dùng 'are'.",
+    "passage": null,
+    "tags": [
+      "part5",
+      "grammar",
+      "subject_verb_agreement"
+    ]
+  },
+  {
+    "part": 5,
+    "level": 640,
+    "question_text": "The new software is far more user-friendly than the previous version.",
+    "options": [
+      "friend",
+      "friendly",
+      "friendship",
+      "befriend"
+    ],
+    "correct_answer": "friendly",
+    "explanation": "Sau 'more' cần tính từ trong cấu trúc so sánh hơn. 'User-friendly' là tính từ đúng nghĩa 'dễ sử dụng'.",
+    "passage": null,
+    "tags": [
+      "part5",
+      "grammar",
+      "comparative"
+    ]
+  },
+  {
+    "part": 5,
+    "level": 660,
+    "question_text": "Please be advised that all refund requests must include the original receipt.",
+    "options": [
+      "advice",
+      "advise",
+      "advised",
+      "advisable"
+    ],
+    "correct_answer": "advised",
+    "explanation": "Cụm trang trọng trong email công việc là 'Please be advised that...'. Đây là cấu trúc bị động rút gọn.",
+    "passage": null,
+    "tags": [
+      "part5",
+      "business_english",
+      "email_phrase"
+    ]
+  },
+  {
+    "part": 5,
+    "level": 680,
+    "question_text": "The conference room was reserved exclusively for senior management meetings.",
+    "options": [
+      "exclusive",
+      "exclusively",
+      "exclusion",
+      "exclude"
+    ],
+    "correct_answer": "exclusively",
+    "explanation": "Trạng từ 'exclusively' bổ nghĩa cho động từ 'was reserved', diễn tả mức độ độc quyền sử dụng.",
+    "passage": null,
+    "tags": [
+      "part5",
+      "grammar",
+      "adverb"
+    ]
+  },
+  {
+    "part": 5,
+    "level": 700,
+    "question_text": "If the supplier had informed us earlier, we could have avoided the shipment delay.",
+    "options": [
+      "inform",
+      "informed",
+      "had informed",
+      "was informing"
+    ],
+    "correct_answer": "had informed",
+    "explanation": "Mệnh đề điều kiện loại 3 dùng quá khứ hoàn thành ở mệnh đề if: 'If + S + had + V3'.",
+    "passage": null,
+    "tags": [
+      "part5",
+      "grammar",
+      "conditional_type3"
+    ]
+  },
+  {
+    "part": 5,
+    "level": 520,
+    "question_text": "Our clients expect clear communication, so every report should be checked carefully before distribution.",
+    "options": [
+      "distribute",
+      "distributed",
+      "distribution",
+      "distributing"
+    ],
+    "correct_answer": "distribution",
+    "explanation": "Sau giới từ 'before' và đóng vai trò danh từ trong cụm 'before distribution', cần dùng danh từ 'distribution'.",
+    "passage": null,
+    "tags": [
+      "part5",
+      "grammar",
+      "word_form"
+    ]
+  },
+  {
+    "part": 5,
+    "level": 540,
+    "question_text": "The auditor requested that the revised invoice be sent by noon.",
+    "options": [
+      "is",
+      "be",
+      "was",
+      "being"
+    ],
+    "correct_answer": "be",
+    "explanation": "Sau 'request that', mệnh đề giả định dùng động từ nguyên mẫu không 'to'. Vì vậy: 'that ... be sent'.",
+    "passage": null,
+    "tags": [
+      "part5",
+      "grammar",
+      "subjunctive"
+    ]
+  },
+  {
+    "part": 5,
+    "level": 560,
+    "question_text": "Mr. Kim has worked at the branch office since he graduated from university.",
+    "options": [
+      "since",
+      "for",
+      "during",
+      "while"
+    ],
+    "correct_answer": "since",
+    "explanation": "'Since' đi với mốc thời gian bắt đầu trong quá khứ kéo dài đến hiện tại. Ở đây mốc là 'he graduated'.",
+    "passage": null,
+    "tags": [
+      "part5",
+      "grammar",
+      "preposition_time"
+    ]
+  },
+  {
+    "part": 5,
+    "level": 580,
+    "question_text": "To reduce printing costs, employees are asked to use both sides of each sheet.",
+    "options": [
+      "reduce",
+      "reduced",
+      "reducing",
+      "reduction"
+    ],
+    "correct_answer": "reduce",
+    "explanation": "Sau 'to' trong cụm chỉ mục đích cần động từ nguyên mẫu: 'To reduce printing costs'.",
+    "passage": null,
+    "tags": [
+      "part5",
+      "grammar",
+      "infinitive"
+    ]
+  },
+  {
+    "part": 5,
+    "level": 600,
+    "question_text": "The training manual is useful for new employees as well as experienced supervisors.",
+    "options": [
+      "for",
+      "from",
+      "of",
+      "at"
+    ],
+    "correct_answer": "for",
+    "explanation": "Tính từ 'useful' đi với giới từ 'for' để chỉ đối tượng được hưởng lợi: useful for someone.",
+    "passage": null,
+    "tags": [
+      "part5",
+      "vocabulary",
+      "preposition_collocation"
+    ]
+  },
+  {
+    "part": 5,
+    "level": 620,
+    "question_text": "The CEO, along with several executives, is attending the international trade forum.",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "be"
+    ],
+    "correct_answer": "is",
+    "explanation": "Cụm chen giữa 'along with...' không làm thay đổi chủ ngữ chính 'The CEO' (số ít), nên dùng 'is'.",
+    "passage": null,
+    "tags": [
+      "part5",
+      "grammar",
+      "subject_verb_agreement"
+    ]
+  },
+  {
+    "part": 5,
+    "level": 640,
+    "question_text": "Applicants who fail to attach all required documents may not be considered for the position.",
+    "options": [
+      "consider",
+      "considered",
+      "considering",
+      "consideration"
+    ],
+    "correct_answer": "considered",
+    "explanation": "Sau động từ khiếm khuyết ở dạng bị động 'may not be', cần quá khứ phân từ: 'be considered'.",
+    "passage": null,
+    "tags": [
+      "part5",
+      "grammar",
+      "passive_voice"
+    ]
+  },
+  {
+    "part": 5,
+    "level": 660,
+    "question_text": "The new policy was implemented to ensure greater transparency in procurement procedures.",
+    "options": [
+      "transparent",
+      "transparency",
+      "transparently",
+      "transparence"
+    ],
+    "correct_answer": "transparency",
+    "explanation": "Sau tính từ so sánh hơn 'greater' cần danh từ. 'Transparency' là danh từ đúng về nghĩa và dạng từ.",
+    "passage": null,
+    "tags": [
+      "part5",
+      "grammar",
+      "word_form"
+    ]
+  },
+  {
+    "part": 5,
+    "level": 680,
+    "question_text": "By the time the technician arrives, we will have completed the system backup.",
+    "options": [
+      "complete",
+      "completed",
+      "completing",
+      "completion"
+    ],
+    "correct_answer": "completed",
+    "explanation": "Cấu trúc tương lai hoàn thành là 'will have + V3'. Vì vậy động từ cần ở dạng quá khứ phân từ 'completed'.",
+    "passage": null,
+    "tags": [
+      "part5",
+      "grammar",
+      "future_perfect"
+    ]
+  },
+  {
+    "part": 5,
+    "level": 700,
+    "question_text": "No sooner had the presentation begun than the projector stopped working.",
+    "options": [
+      "than",
+      "when",
+      "then",
+      "that"
+    ],
+    "correct_answer": "than",
+    "explanation": "Thành ngữ đảo ngữ chuẩn là 'No sooner ... than ...'. Đây là cặp liên từ cố định trong tiếng Anh học thuật.",
+    "passage": null,
+    "tags": [
+      "part5",
+      "grammar",
+      "inversion"
+    ]
+  },
+  {
+    "part": 5,
+    "level": 720,
+    "question_text": "The candidate gave a concise response that directly addressed the panel's concerns.",
+    "options": [
+      "concise",
+      "concision",
+      "concisely",
+      "conciseness"
+    ],
+    "correct_answer": "concise",
+    "explanation": "Từ cần bổ nghĩa cho danh từ 'response' nên phải là tính từ. 'Concise response' nghĩa là câu trả lời ngắn gọn, súc tích.",
+    "passage": null,
+    "tags": [
+      "part5",
+      "vocabulary",
+      "adjective_usage"
+    ]
+  },
+  {
+    "part": 5,
+    "level": 740,
+    "question_text": "The report outlines several strategies, each of which could improve customer retention.",
+    "options": [
+      "who",
+      "which",
+      "where",
+      "what"
+    ],
+    "correct_answer": "which",
+    "explanation": "Trong mệnh đề quan hệ có giới từ 'of', đại từ quan hệ chỉ vật là 'which': each of which.",
+    "passage": null,
+    "tags": [
+      "part5",
+      "grammar",
+      "relative_clause"
+    ]
+  },
+  {
+    "part": 5,
+    "level": 760,
+    "question_text": "It is imperative that all confidential files remain locked when not in use.",
+    "options": [
+      "remain",
+      "remains",
+      "remained",
+      "remaining"
+    ],
+    "correct_answer": "remain",
+    "explanation": "Sau cấu trúc giả định 'It is imperative that', động từ trong mệnh đề that dùng nguyên mẫu không chia: remain.",
+    "passage": null,
+    "tags": [
+      "part5",
+      "grammar",
+      "subjunctive"
+    ]
+  },
+  {
+    "part": 5,
+    "level": 780,
+    "question_text": "Had we anticipated the demand surge, we would have increased production earlier.",
+    "options": [
+      "anticipated",
+      "anticipate",
+      "had anticipated",
+      "anticipating"
+    ],
+    "correct_answer": "anticipated",
+    "explanation": "Đây là đảo ngữ của điều kiện loại 3: 'Had we + V3'. Vì 'Had' đã có sẵn, chỗ trống điền V3 là 'anticipated'.",
+    "passage": null,
+    "tags": [
+      "part5",
+      "grammar",
+      "inverted_conditional"
+    ]
+  },
+  {
+    "part": 5,
+    "level": 800,
+    "question_text": "The contract will be renewed provided that both parties agree to the revised terms.",
+    "options": [
+      "provided",
+      "unless",
+      "although",
+      "despite"
+    ],
+    "correct_answer": "provided",
+    "explanation": "'Provided (that)' mang nghĩa 'miễn là' và phù hợp với ngữ cảnh điều kiện để gia hạn hợp đồng.",
+    "passage": null,
+    "tags": [
+      "part5",
+      "grammar",
+      "condition_linker"
+    ]
+  },
+  {
+    "part": 5,
+    "level": 710,
+    "question_text": "The consultant's recommendation was based on extensive research and field observations.",
+    "options": [
+      "extensive",
+      "extent",
+      "extensively",
+      "extension"
+    ],
+    "correct_answer": "extensive",
+    "explanation": "Cần tính từ để bổ nghĩa cho danh từ 'research'. 'Extensive research' là cụm dùng rất phổ biến trong văn bản chuyên nghiệp.",
+    "passage": null,
+    "tags": [
+      "part5",
+      "vocabulary",
+      "word_form"
+    ]
+  },
+  {
+    "part": 5,
+    "level": 690,
+    "question_text": "Customers are advised to retain a copy of the warranty certificate for future reference.",
+    "options": [
+      "retain",
+      "retains",
+      "retained",
+      "retaining"
+    ],
+    "correct_answer": "retain",
+    "explanation": "Cấu trúc 'advise someone to do something' yêu cầu động từ nguyên mẫu sau 'to': to retain.",
+    "passage": null,
+    "tags": [
+      "part5",
+      "grammar",
+      "verb_pattern"
+    ]
+  },
+  {
+    "part": 5,
+    "level": 670,
+    "question_text": "The final draft is due tomorrow, so please complete your revisions by 5 p.m.",
+    "options": [
+      "complete",
+      "completion",
+      "completely",
+      "completing"
+    ],
+    "correct_answer": "complete",
+    "explanation": "Sau 'please' dùng động từ nguyên mẫu để đưa ra yêu cầu lịch sự: please complete.",
+    "passage": null,
+    "tags": [
+      "part5",
+      "grammar",
+      "imperative"
+    ]
+  },
+  {
+    "part": 5,
+    "level": 650,
+    "question_text": "Due to unexpected weather conditions, several flights were delayed at the international airport.",
+    "options": [
+      "delay",
+      "delays",
+      "delayed",
+      "delaying"
+    ],
+    "correct_answer": "delayed",
+    "explanation": "Chủ ngữ 'several flights' nhận tác động nên câu ở bị động quá khứ: were delayed.",
+    "passage": null,
+    "tags": [
+      "part5",
+      "grammar",
+      "past_passive"
+    ]
+  },
+  {
+    "part": 5,
+    "level": 630,
+    "question_text": "The orientation session covers company values, safety policies, and workplace etiquette.",
+    "options": [
+      "cover",
+      "covers",
+      "covered",
+      "covering"
+    ],
+    "correct_answer": "covers",
+    "explanation": "Chủ ngữ số ít 'session' ở hiện tại đơn nên động từ thêm -s: covers.",
+    "passage": null,
+    "tags": [
+      "part5",
+      "grammar",
+      "present_simple"
+    ]
+  },
+  {
+    "part": 6,
+    "level": 650,
+    "passage": "Office Relocation Notice\n\nTo: All Staff\n\nWe are (1) ____ to announce that our Hanoi branch will relocate to the Green Tower Building starting May 3. The new office offers larger meeting rooms and improved parking access. Employees should pack personal items by April 29 and label all boxes clearly. The facilities team will handle computer equipment and desks. During the moving week, customer support will remain (2) ____ through our hotline and email channels. Please review the attached seating chart and submit any concerns (3) ____ Friday. We appreciate your cooperation and are confident the new location will create a more productive work environment for everyone.",
+    "tags": [
+      "part6",
+      "memo",
+      "grammar",
+      "word_form"
+    ],
+    "explanation": "Sau 'are' và trước 'to announce' cần tính từ chỉ cảm xúc của chủ thể. 'We are delighted to announce...' là mẫu câu thông báo trang trọng chuẩn.",
+    "questions": [
+      {
+        "id": 1,
+        "text": "In blank (1), which word best completes the sentence?",
+        "options": [
+          "delighted",
+          "delight",
+          "delightful",
+          "delighting"
+        ],
+        "correct_answer": "delighted",
+        "explanation": "Sau 'are' và trước 'to announce' cần tính từ chỉ cảm xúc của chủ thể. 'We are delighted to announce...' là mẫu câu thông báo trang trọng chuẩn.",
+        "tags": [
+          "part6",
+          "memo",
+          "grammar",
+          "word_form"
+        ]
+      },
+      {
+        "id": 2,
+        "text": "In blank (2), which option is most appropriate?",
+        "options": [
+          "availability",
+          "available",
+          "availably",
+          "avail"
+        ],
+        "correct_answer": "available",
+        "explanation": "Sau động từ nối 'remain' cần tính từ. 'Remain available' nghĩa là vẫn sẵn sàng hoạt động/phục vụ.",
+        "tags": [
+          "part6",
+          "memo",
+          "grammar",
+          "linking_verb"
+        ]
+      },
+      {
+        "id": 3,
+        "text": "In blank (3), which preposition should be used?",
+        "options": [
+          "at",
+          "by",
+          "on",
+          "during"
+        ],
+        "correct_answer": "by",
+        "explanation": "'By Friday' nghĩa là trước hoặc không muộn hơn thứ Sáu. Đây là giới từ chuẩn để nói hạn chót.",
+        "tags": [
+          "part6",
+          "memo",
+          "deadline",
+          "preposition"
+        ]
+      },
+      {
+        "id": 4,
+        "text": "What is the main purpose of this notice?",
+        "options": [
+          "To announce an office relocation plan",
+          "To recruit new support staff",
+          "To introduce a new hotline service",
+          "To cancel a facilities contract"
+        ],
+        "correct_answer": "To announce an office relocation plan",
+        "explanation": "Toàn bộ đoạn văn xoay quanh việc chuyển văn phòng, mốc thời gian và hướng dẫn nhân viên chuẩn bị, nên mục đích chính là thông báo kế hoạch relocation.",
+        "tags": [
+          "part6",
+          "reading_comprehension",
+          "main_idea"
+        ]
+      }
+    ]
+  },
+  {
+    "part": 6,
+    "level": 690,
+    "passage": "Quarterly Sales Update\n\nDear Regional Managers,\n\nThank you for your hard work this quarter. Overall, our (1) ____ exceeded expectations, with total revenue rising by 12 percent compared with last year. The northern region recorded the highest growth, largely due to strong demand for home-office products. To maintain momentum, each branch is requested to review inventory turnover and submit a restocking plan (2) ____ the end of this month. In addition, please identify at least two local partners who could support promotional events next quarter. The executive team will evaluate all proposals and provide feedback (3) ____ the first week of June.",
+    "tags": [
+      "part6",
+      "email",
+      "business_report",
+      "word_form"
+    ],
+    "explanation": "Sau tính từ sở hữu 'our' cần danh từ. 'Our performance' là cụm tự nhiên trong báo cáo kinh doanh.",
+    "questions": [
+      {
+        "id": 1,
+        "text": "In blank (1), choose the best word.",
+        "options": [
+          "perform",
+          "performance",
+          "performed",
+          "performing"
+        ],
+        "correct_answer": "performance",
+        "explanation": "Sau tính từ sở hữu 'our' cần danh từ. 'Our performance' là cụm tự nhiên trong báo cáo kinh doanh.",
+        "tags": [
+          "part6",
+          "email",
+          "business_report",
+          "word_form"
+        ]
+      },
+      {
+        "id": 2,
+        "text": "In blank (2), which phrase fits best?",
+        "options": [
+          "by",
+          "on",
+          "in",
+          "to"
+        ],
+        "correct_answer": "by",
+        "explanation": "Câu nói về hạn nộp kế hoạch, vì vậy dùng 'by the end of this month'. Đây là cụm chỉ deadline rất thường gặp trong TOEIC.",
+        "tags": [
+          "part6",
+          "email",
+          "preposition",
+          "deadline"
+        ]
+      },
+      {
+        "id": 3,
+        "text": "In blank (3), which word should be inserted?",
+        "options": [
+          "in",
+          "on",
+          "at",
+          "for"
+        ],
+        "correct_answer": "in",
+        "explanation": "Với khoảng thời gian như 'the first week of June', giới từ tự nhiên là 'in'.",
+        "tags": [
+          "part6",
+          "email",
+          "time_expression",
+          "preposition"
+        ]
+      },
+      {
+        "id": 4,
+        "text": "According to the passage, why did the northern region grow the most?",
+        "options": [
+          "It launched a new warehouse",
+          "It reduced shipping fees",
+          "Demand for home-office products was strong",
+          "It hired additional sales managers"
+        ],
+        "correct_answer": "Demand for home-office products was strong",
+        "explanation": "Đoạn văn nêu trực tiếp: vùng phía Bắc tăng trưởng cao nhất 'largely due to strong demand for home-office products'.",
+        "tags": [
+          "part6",
+          "reading_comprehension",
+          "detail_question"
+        ]
+      }
+    ]
+  },
+  {
+    "part": 6,
+    "level": 730,
+    "passage": "Product Recall Announcement\n\nDear Customers,\n\nAfter a routine quality inspection, we discovered that a small number of SmartKettle units may overheat under specific conditions. As a precaution, we are voluntarily recalling units manufactured between January and March 2026. Please check the serial number on the bottom label and compare it with the list on our website. If your unit is affected, stop using it immediately and complete the online form to request a replacement. All submissions will be (1) ____ reviewed, and approved customers will receive a prepaid shipping label within three business days. We sincerely apologize for any inconvenience and appreciate your (2) ____ as we resolve this issue. Customer service representatives are available daily to answer questions and provide further (3) ____.",
+    "tags": [
+      "part6",
+      "notice",
+      "word_form",
+      "adverb"
+    ],
+    "explanation": "Động từ 'reviewed' cần trạng từ bổ nghĩa cách thức, nên 'carefully' là lựa chọn đúng.",
+    "questions": [
+      {
+        "id": 1,
+        "text": "In blank (1), which option best completes the sentence?",
+        "options": [
+          "care",
+          "careful",
+          "carefully",
+          "carefulness"
+        ],
+        "correct_answer": "carefully",
+        "explanation": "Động từ 'reviewed' cần trạng từ bổ nghĩa cách thức, nên 'carefully' là lựa chọn đúng.",
+        "tags": [
+          "part6",
+          "notice",
+          "word_form",
+          "adverb"
+        ]
+      },
+      {
+        "id": 2,
+        "text": "In blank (2), choose the best word.",
+        "options": [
+          "patient",
+          "patience",
+          "patiently",
+          "impatient"
+        ],
+        "correct_answer": "patience",
+        "explanation": "Sau tính từ sở hữu 'your' cần danh từ. Cụm lịch sự trong thông báo xin lỗi là 'appreciate your patience'.",
+        "tags": [
+          "part6",
+          "notice",
+          "customer_service",
+          "word_form"
+        ]
+      },
+      {
+        "id": 3,
+        "text": "In blank (3), which noun is most appropriate?",
+        "options": [
+          "informed",
+          "informative",
+          "information",
+          "inform"
+        ],
+        "correct_answer": "information",
+        "explanation": "Sau 'provide further' cần danh từ. 'Further information' là cụm chuẩn trong thư/thông báo chính thức.",
+        "tags": [
+          "part6",
+          "notice",
+          "vocabulary",
+          "noun_usage"
+        ]
+      },
+      {
+        "id": 4,
+        "text": "What should customers do first if their unit is affected?",
+        "options": [
+          "Call a local retailer",
+          "Stop using the unit immediately",
+          "Pay for a shipping label",
+          "Visit a service center in person"
+        ],
+        "correct_answer": "Stop using the unit immediately",
+        "explanation": "Bài viết nêu rõ trình tự: nếu sản phẩm bị ảnh hưởng thì 'stop using it immediately' trước khi điền form đổi sản phẩm.",
+        "tags": [
+          "part6",
+          "reading_comprehension",
+          "sequence"
+        ]
+      }
+    ]
+  },
+  {
+    "part": 7,
+    "level": 760,
+    "passage": "From: Minh Tran (Sales Executive)\nTo: Laura Bennett (Regional Director)\nSubject: Request to Reschedule Tuesday Client Meeting\n\nDear Ms. Bennett,\n\nI am writing to request a change to our meeting with Pacific Retail, currently scheduled for Tuesday at 10:00 a.m. My return flight from Da Nang has been delayed due to severe weather, and the earliest flight now lands at 11:30 a.m.\n\nBecause this meeting involves final contract terms, I would like to attend in person rather than join remotely. Could we move the meeting to Wednesday morning between 9:00 and 11:00? I have already contacted Pacific Retail's procurement manager, Ms. Linh Vu, and she said their team can be flexible.\n\nAttached are the revised pricing sheet and updated delivery timeline we discussed last week. Please let me know if you would prefer another time slot.\n\nThank you for your understanding.\n\nBest regards,\nMinh Tran",
+    "tags": [
+      "part7",
+      "email",
+      "main_purpose"
+    ],
+    "explanation": "Ngay đoạn mở đầu email, người viết nói rõ mục đích là xin dời lịch buổi gặp với khách hàng do xung đột lịch bay.",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Why did Mr. Tran write this email?",
+        "options": [
+          "To request a salary increase",
+          "To reschedule a client meeting",
+          "To apply for annual leave",
+          "To cancel a product demo"
+        ],
+        "correct_answer": "To reschedule a client meeting",
+        "explanation": "Ngay đoạn mở đầu email, người viết nói rõ mục đích là xin dời lịch buổi gặp với khách hàng do xung đột lịch bay.",
+        "tags": [
+          "part7",
+          "email",
+          "main_purpose"
+        ]
+      },
+      {
+        "id": 2,
+        "text": "What problem does the writer mention?",
+        "options": [
+          "A delayed return flight",
+          "A missing contract file",
+          "A technical issue with video conferencing",
+          "A canceled meeting room reservation"
+        ],
+        "correct_answer": "A delayed return flight",
+        "explanation": "Email nêu cụ thể chuyến bay trở về từ Đà Nẵng bị trì hoãn vì thời tiết xấu, khiến người viết không kịp cuộc họp ban đầu.",
+        "tags": [
+          "part7",
+          "email",
+          "detail_question"
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Why does Mr. Tran prefer to attend the meeting in person?",
+        "options": [
+          "He needs to present a new advertising video",
+          "The meeting concerns final contract terms",
+          "Pacific Retail does not allow remote meetings",
+          "He must collect signed invoices"
+        ],
+        "correct_answer": "The meeting concerns final contract terms",
+        "explanation": "Người viết giải thích rõ: vì cuộc họp liên quan các điều khoản hợp đồng cuối cùng nên anh muốn tham dự trực tiếp.",
+        "tags": [
+          "part7",
+          "email",
+          "inference"
+        ]
+      },
+      {
+        "id": 4,
+        "text": "What has Mr. Tran already done?",
+        "options": [
+          "Booked a new flight for Thursday",
+          "Confirmed a new contract price",
+          "Contacted Pacific Retail's procurement manager",
+          "Reserved a conference room for Wednesday"
+        ],
+        "correct_answer": "Contacted Pacific Retail's procurement manager",
+        "explanation": "Trong email có câu 'I have already contacted ... Ms. Linh Vu'. Đây là thông tin trực tiếp, không cần suy luận thêm.",
+        "tags": [
+          "part7",
+          "email",
+          "detail_question"
+        ]
+      },
+      {
+        "id": 5,
+        "text": "What is attached to the email?",
+        "options": [
+          "A market survey and product catalog",
+          "A revised pricing sheet and delivery timeline",
+          "A weather report and travel receipt",
+          "A draft employment contract"
+        ],
+        "correct_answer": "A revised pricing sheet and delivery timeline",
+        "explanation": "Đoạn gần cuối ghi rõ hai tài liệu đính kèm: bảng giá đã chỉnh sửa và tiến độ giao hàng cập nhật.",
+        "tags": [
+          "part7",
+          "email",
+          "detail_question",
+          "attachment"
+        ]
+      }
+    ]
+  },
+  {
+    "part": 7,
+    "level": 770,
+    "passage": "Business Daily - Operations & Sustainability\n\nMetroShip, a regional logistics provider, announced the results of a six-month pilot program aimed at reducing packaging waste across its distribution network. The initiative, launched in October, replaced single-use plastic cushioning with reusable padded inserts and standardized box sizes at three major fulfillment centers.\n\nAccording to MetroShip's operations team, the company cut packaging material use by 28 percent while maintaining on-time delivery performance. Customer satisfaction scores remained stable, and product damage rates did not increase during the trial period.\n\nThe company noted that initial setup costs were higher than expected because warehouse staff needed additional training and new scanning procedures. However, managers estimate the investment will be recovered within 14 months through lower material purchasing costs.\n\nFollowing the pilot's success, MetroShip plans to extend the program to eight more facilities by the end of the year. Analysts say the move could influence smaller carriers to adopt similar practices, especially as major retail clients request clearer sustainability metrics from shipping partners.",
+    "tags": [
+      "part7",
+      "article",
+      "main_idea"
+    ],
+    "explanation": "Bài viết tập trung mô tả chương trình thí điểm giảm rác thải bao bì, kết quả đạt được và kế hoạch mở rộng.",
+    "questions": [
+      {
+        "id": 1,
+        "text": "What is the main purpose of the article?",
+        "options": [
+          "To announce a merger between two logistics companies",
+          "To report on a pilot program reducing packaging waste",
+          "To advertise discounted delivery services",
+          "To explain why shipping costs increased this year"
+        ],
+        "correct_answer": "To report on a pilot program reducing packaging waste",
+        "explanation": "Bài viết tập trung mô tả chương trình thí điểm giảm rác thải bao bì, kết quả đạt được và kế hoạch mở rộng.",
+        "tags": [
+          "part7",
+          "article",
+          "main_idea"
+        ]
+      },
+      {
+        "id": 2,
+        "text": "What change was made during the pilot program?",
+        "options": [
+          "MetroShip reduced delivery frequency",
+          "MetroShip switched to reusable padded inserts",
+          "MetroShip outsourced all packaging tasks",
+          "MetroShip closed three fulfillment centers"
+        ],
+        "correct_answer": "MetroShip switched to reusable padded inserts",
+        "explanation": "Đoạn đầu nêu rõ thay đổi cốt lõi: thay lớp đệm nhựa dùng một lần bằng đệm tái sử dụng.",
+        "tags": [
+          "part7",
+          "article",
+          "detail_question"
+        ]
+      },
+      {
+        "id": 3,
+        "text": "How did the pilot program affect product damage rates?",
+        "options": [
+          "They increased significantly",
+          "They decreased by 28 percent",
+          "They remained unchanged",
+          "They were not measured"
+        ],
+        "correct_answer": "They remained unchanged",
+        "explanation": "Bài viết nói rõ tỉ lệ hư hỏng sản phẩm 'did not increase', tức về cơ bản được giữ ổn định.",
+        "tags": [
+          "part7",
+          "article",
+          "detail_question",
+          "data_interpretation"
+        ]
+      },
+      {
+        "id": 4,
+        "text": "Why were initial setup costs higher than expected?",
+        "options": [
+          "Fuel prices rose unexpectedly",
+          "New facilities had to be rented",
+          "Staff required extra training and scanning procedures",
+          "Packaging suppliers increased their prices"
+        ],
+        "correct_answer": "Staff required extra training and scanning procedures",
+        "explanation": "Đoạn 3 nêu nguyên nhân trực tiếp: nhân viên kho cần đào tạo thêm và phải áp dụng quy trình quét mới.",
+        "tags": [
+          "part7",
+          "article",
+          "detail_question",
+          "cause_effect"
+        ]
+      },
+      {
+        "id": 5,
+        "text": "What is suggested about the wider logistics industry?",
+        "options": [
+          "Smaller carriers may follow MetroShip's approach",
+          "Most companies are ending sustainability programs",
+          "Retail clients no longer care about environmental metrics",
+          "Reusable packaging is legally required next month"
+        ],
+        "correct_answer": "Smaller carriers may follow MetroShip's approach",
+        "explanation": "Câu cuối cho biết các nhà phân tích cho rằng động thái này có thể ảnh hưởng tới các hãng nhỏ hơn, tức khả năng lan tỏa mô hình là cao.",
+        "tags": [
+          "part7",
+          "article",
+          "inference",
+          "industry_trend"
+        ]
+      }
+    ]
+  }
+]

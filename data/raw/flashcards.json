@@ -1,0 +1,902 @@
+[
+  {
+    "word": "meeting",
+    "ipa": "/ˈmiːtɪŋ/",
+    "meaning_vi": "cuộc họp",
+    "example_en": "The manager approved the report after the meeting.",
+    "example_vi": "Người quản lý đã phê duyệt báo cáo sau cuộc họp.",
+    "category": "business",
+    "difficulty": "core"
+  },
+  {
+    "word": "deadline",
+    "ipa": "/ˈdedlaɪn/",
+    "meaning_vi": "hạn chót",
+    "example_en": "The manager approved the report after the meeting.",
+    "example_vi": "Người quản lý đã phê duyệt báo cáo sau cuộc họp.",
+    "category": "business",
+    "difficulty": "core"
+  },
+  {
+    "word": "budget",
+    "ipa": "/ˈbʌdʒɪt/",
+    "meaning_vi": "ngân sách",
+    "example_en": "The manager approved the report after the meeting.",
+    "example_vi": "Người quản lý đã phê duyệt báo cáo sau cuộc họp.",
+    "category": "business",
+    "difficulty": "core"
+  },
+  {
+    "word": "client",
+    "ipa": "/ˈklaɪənt/",
+    "meaning_vi": "khách hàng",
+    "example_en": "The manager approved the report after the meeting.",
+    "example_vi": "Người quản lý đã phê duyệt báo cáo sau cuộc họp.",
+    "category": "business",
+    "difficulty": "core"
+  },
+  {
+    "word": "revenue",
+    "ipa": "/ˈrevənjuː/",
+    "meaning_vi": "doanh thu",
+    "example_en": "The manager approved the report after the meeting.",
+    "example_vi": "Người quản lý đã phê duyệt báo cáo sau cuộc họp.",
+    "category": "business",
+    "difficulty": "advanced"
+  },
+  {
+    "word": "invoice",
+    "ipa": "/ˈɪnvɔɪs/",
+    "meaning_vi": "hóa đơn",
+    "example_en": "The manager approved the report after the meeting.",
+    "example_vi": "Người quản lý đã phê duyệt báo cáo sau cuộc họp.",
+    "category": "business",
+    "difficulty": "core"
+  },
+  {
+    "word": "contract",
+    "ipa": "/ˈkɒntrækt/",
+    "meaning_vi": "hợp đồng",
+    "example_en": "The manager approved the report after the meeting.",
+    "example_vi": "Người quản lý đã phê duyệt báo cáo sau cuộc họp.",
+    "category": "business",
+    "difficulty": "core"
+  },
+  {
+    "word": "negotiate",
+    "ipa": "/nɪˈɡəʊʃieɪt/",
+    "meaning_vi": "thương lượng",
+    "example_en": "The manager approved the report after the meeting.",
+    "example_vi": "Người quản lý đã phê duyệt báo cáo sau cuộc họp.",
+    "category": "business",
+    "difficulty": "advanced"
+  },
+  {
+    "word": "stakeholder",
+    "ipa": "/ˈsteɪkˌhəʊldə/",
+    "meaning_vi": "bên liên quan",
+    "example_en": "The manager approved the report after the meeting.",
+    "example_vi": "Người quản lý đã phê duyệt báo cáo sau cuộc họp.",
+    "category": "business",
+    "difficulty": "advanced"
+  },
+  {
+    "word": "proposal",
+    "ipa": "/prəˈpəʊzl/",
+    "meaning_vi": "đề xuất",
+    "example_en": "The manager approved the report after the meeting.",
+    "example_vi": "Người quản lý đã phê duyệt báo cáo sau cuộc họp.",
+    "category": "business",
+    "difficulty": "core"
+  },
+  {
+    "word": "memo",
+    "ipa": "/ˈmeməʊ/",
+    "meaning_vi": "bản ghi nhớ",
+    "example_en": "Please place the file on my desk.",
+    "example_vi": "Vui lòng đặt hồ sơ lên bàn làm việc của tôi.",
+    "category": "office",
+    "difficulty": "starter"
+  },
+  {
+    "word": "desk",
+    "ipa": "/desk/",
+    "meaning_vi": "bàn làm việc",
+    "example_en": "Please place the file on my desk.",
+    "example_vi": "Vui lòng đặt hồ sơ lên bàn làm việc của tôi.",
+    "category": "office",
+    "difficulty": "starter"
+  },
+  {
+    "word": "printer",
+    "ipa": "/ˈprɪntə/",
+    "meaning_vi": "máy in",
+    "example_en": "Please place the file on my desk.",
+    "example_vi": "Vui lòng đặt hồ sơ lên bàn làm việc của tôi.",
+    "category": "office",
+    "difficulty": "starter"
+  },
+  {
+    "word": "colleague",
+    "ipa": "/ˈkɒliːɡ/",
+    "meaning_vi": "đồng nghiệp",
+    "example_en": "Please place the file on my desk.",
+    "example_vi": "Vui lòng đặt hồ sơ lên bàn làm việc của tôi.",
+    "category": "office",
+    "difficulty": "core"
+  },
+  {
+    "word": "schedule",
+    "ipa": "/ˈʃedjuːl/",
+    "meaning_vi": "lịch trình",
+    "example_en": "Please place the file on my desk.",
+    "example_vi": "Vui lòng đặt hồ sơ lên bàn làm việc của tôi.",
+    "category": "office",
+    "difficulty": "core"
+  },
+  {
+    "word": "archive",
+    "ipa": "/ˈɑːkaɪv/",
+    "meaning_vi": "lưu trữ",
+    "example_en": "Please place the file on my desk.",
+    "example_vi": "Vui lòng đặt hồ sơ lên bàn làm việc của tôi.",
+    "category": "office",
+    "difficulty": "core"
+  },
+  {
+    "word": "manager",
+    "ipa": "/ˈmænɪdʒə/",
+    "meaning_vi": "quản lý",
+    "example_en": "Please place the file on my desk.",
+    "example_vi": "Vui lòng đặt hồ sơ lên bàn làm việc của tôi.",
+    "category": "office",
+    "difficulty": "core"
+  },
+  {
+    "word": "confirm",
+    "ipa": "/kənˈfɜːm/",
+    "meaning_vi": "xác nhận",
+    "example_en": "Please place the file on my desk.",
+    "example_vi": "Vui lòng đặt hồ sơ lên bàn làm việc của tôi.",
+    "category": "office",
+    "difficulty": "core"
+  },
+  {
+    "word": "submit",
+    "ipa": "/səbˈmɪt/",
+    "meaning_vi": "nộp, gửi",
+    "example_en": "Please place the file on my desk.",
+    "example_vi": "Vui lòng đặt hồ sơ lên bàn làm việc của tôi.",
+    "category": "office",
+    "difficulty": "core"
+  },
+  {
+    "word": "file",
+    "ipa": "/faɪl/",
+    "meaning_vi": "hồ sơ",
+    "example_en": "Please place the file on my desk.",
+    "example_vi": "Vui lòng đặt hồ sơ lên bàn làm việc của tôi.",
+    "category": "office",
+    "difficulty": "starter"
+  },
+  {
+    "word": "ticket",
+    "ipa": "/ˈtɪkɪt/",
+    "meaning_vi": "vé",
+    "example_en": "We need the passport before departure.",
+    "example_vi": "Chúng tôi cần hộ chiếu trước khi khởi hành.",
+    "category": "travel",
+    "difficulty": "starter"
+  },
+  {
+    "word": "boarding",
+    "ipa": "/ˈbɔːdɪŋ/",
+    "meaning_vi": "lên máy bay",
+    "example_en": "We need the passport before departure.",
+    "example_vi": "Chúng tôi cần hộ chiếu trước khi khởi hành.",
+    "category": "travel",
+    "difficulty": "core"
+  },
+  {
+    "word": "baggage",
+    "ipa": "/ˈbæɡɪdʒ/",
+    "meaning_vi": "hành lý",
+    "example_en": "We need the passport before departure.",
+    "example_vi": "Chúng tôi cần hộ chiếu trước khi khởi hành.",
+    "category": "travel",
+    "difficulty": "starter"
+  },
+  {
+    "word": "depart",
+    "ipa": "/dɪˈpɑːt/",
+    "meaning_vi": "khởi hành",
+    "example_en": "We need the passport before departure.",
+    "example_vi": "Chúng tôi cần hộ chiếu trước khi khởi hành.",
+    "category": "travel",
+    "difficulty": "core"
+  },
+  {
+    "word": "arrival",
+    "ipa": "/əˈraɪvl/",
+    "meaning_vi": "sự đến nơi",
+    "example_en": "We need the passport before departure.",
+    "example_vi": "Chúng tôi cần hộ chiếu trước khi khởi hành.",
+    "category": "travel",
+    "difficulty": "core"
+  },
+  {
+    "word": "customs",
+    "ipa": "/ˈkʌstəmz/",
+    "meaning_vi": "hải quan",
+    "example_en": "We need the passport before departure.",
+    "example_vi": "Chúng tôi cần hộ chiếu trước khi khởi hành.",
+    "category": "travel",
+    "difficulty": "core"
+  },
+  {
+    "word": "reservation",
+    "ipa": "/ˌrezəˈveɪʃn/",
+    "meaning_vi": "đặt chỗ",
+    "example_en": "We need the passport before departure.",
+    "example_vi": "Chúng tôi cần hộ chiếu trước khi khởi hành.",
+    "category": "travel",
+    "difficulty": "core"
+  },
+  {
+    "word": "itinerary",
+    "ipa": "/aɪˈtɪnərəri/",
+    "meaning_vi": "lịch trình chuyến đi",
+    "example_en": "We need the passport before departure.",
+    "example_vi": "Chúng tôi cần hộ chiếu trước khi khởi hành.",
+    "category": "travel",
+    "difficulty": "advanced"
+  },
+  {
+    "word": "shuttle",
+    "ipa": "/ˈʃʌtl/",
+    "meaning_vi": "xe đưa đón",
+    "example_en": "We need the passport before departure.",
+    "example_vi": "Chúng tôi cần hộ chiếu trước khi khởi hành.",
+    "category": "travel",
+    "difficulty": "core"
+  },
+  {
+    "word": "passport",
+    "ipa": "/ˈpɑːspɔːt/",
+    "meaning_vi": "hộ chiếu",
+    "example_en": "We need the passport before departure.",
+    "example_vi": "Chúng tôi cần hộ chiếu trước khi khởi hành.",
+    "category": "travel",
+    "difficulty": "starter"
+  },
+  {
+    "word": "campaign",
+    "ipa": "/kæmˈpeɪn/",
+    "meaning_vi": "chiến dịch",
+    "example_en": "The company launched a new campaign this week.",
+    "example_vi": "Công ty đã ra mắt một chiến dịch mới trong tuần này.",
+    "category": "marketing",
+    "difficulty": "core"
+  },
+  {
+    "word": "advertise",
+    "ipa": "/ˈædvətaɪz/",
+    "meaning_vi": "quảng cáo",
+    "example_en": "The company launched a new campaign this week.",
+    "example_vi": "Công ty đã ra mắt một chiến dịch mới trong tuần này.",
+    "category": "marketing",
+    "difficulty": "core"
+  },
+  {
+    "word": "brand",
+    "ipa": "/brænd/",
+    "meaning_vi": "thương hiệu",
+    "example_en": "The company launched a new campaign this week.",
+    "example_vi": "Công ty đã ra mắt một chiến dịch mới trong tuần này.",
+    "category": "marketing",
+    "difficulty": "starter"
+  },
+  {
+    "word": "promote",
+    "ipa": "/prəˈməʊt/",
+    "meaning_vi": "quảng bá",
+    "example_en": "The company launched a new campaign this week.",
+    "example_vi": "Công ty đã ra mắt một chiến dịch mới trong tuần này.",
+    "category": "marketing",
+    "difficulty": "core"
+  },
+  {
+    "word": "survey",
+    "ipa": "/ˈsɜːveɪ/",
+    "meaning_vi": "khảo sát",
+    "example_en": "The company launched a new campaign this week.",
+    "example_vi": "Công ty đã ra mắt một chiến dịch mới trong tuần này.",
+    "category": "marketing",
+    "difficulty": "core"
+  },
+  {
+    "word": "audience",
+    "ipa": "/ˈɔːdiəns/",
+    "meaning_vi": "khán giả",
+    "example_en": "The company launched a new campaign this week.",
+    "example_vi": "Công ty đã ra mắt một chiến dịch mới trong tuần này.",
+    "category": "marketing",
+    "difficulty": "core"
+  },
+  {
+    "word": "slogan",
+    "ipa": "/ˈsləʊɡən/",
+    "meaning_vi": "khẩu hiệu",
+    "example_en": "The company launched a new campaign this week.",
+    "example_vi": "Công ty đã ra mắt một chiến dịch mới trong tuần này.",
+    "category": "marketing",
+    "difficulty": "starter"
+  },
+  {
+    "word": "target",
+    "ipa": "/ˈtɑːɡɪt/",
+    "meaning_vi": "mục tiêu",
+    "example_en": "The company launched a new campaign this week.",
+    "example_vi": "Công ty đã ra mắt một chiến dịch mới trong tuần này.",
+    "category": "marketing",
+    "difficulty": "core"
+  },
+  {
+    "word": "strategy",
+    "ipa": "/ˈstrætədʒi/",
+    "meaning_vi": "chiến lược",
+    "example_en": "The company launched a new campaign this week.",
+    "example_vi": "Công ty đã ra mắt một chiến dịch mới trong tuần này.",
+    "category": "marketing",
+    "difficulty": "core"
+  },
+  {
+    "word": "launch",
+    "ipa": "/lɔːntʃ/",
+    "meaning_vi": "ra mắt",
+    "example_en": "The company launched a new campaign this week.",
+    "example_vi": "Công ty đã ra mắt một chiến dịch mới trong tuần này.",
+    "category": "marketing",
+    "difficulty": "core"
+  },
+  {
+    "word": "warehouse",
+    "ipa": "/ˈweəhaʊs/",
+    "meaning_vi": "kho hàng",
+    "example_en": "The shipment arrived at the warehouse this morning.",
+    "example_vi": "Lô hàng đã đến kho hàng sáng nay.",
+    "category": "logistics",
+    "difficulty": "core"
+  },
+  {
+    "word": "shipment",
+    "ipa": "/ˈʃɪpmənt/",
+    "meaning_vi": "lô hàng",
+    "example_en": "The shipment arrived at the warehouse this morning.",
+    "example_vi": "Lô hàng đã đến kho hàng sáng nay.",
+    "category": "logistics",
+    "difficulty": "core"
+  },
+  {
+    "word": "supplier",
+    "ipa": "/səˈplaɪə/",
+    "meaning_vi": "nhà cung cấp",
+    "example_en": "The shipment arrived at the warehouse this morning.",
+    "example_vi": "Lô hàng đã đến kho hàng sáng nay.",
+    "category": "logistics",
+    "difficulty": "core"
+  },
+  {
+    "word": "inventory",
+    "ipa": "/ˈɪnvəntri/",
+    "meaning_vi": "hàng tồn kho",
+    "example_en": "The shipment arrived at the warehouse this morning.",
+    "example_vi": "Lô hàng đã đến kho hàng sáng nay.",
+    "category": "logistics",
+    "difficulty": "advanced"
+  },
+  {
+    "word": "deliver",
+    "ipa": "/dɪˈlɪvə/",
+    "meaning_vi": "giao hàng",
+    "example_en": "The shipment arrived at the warehouse this morning.",
+    "example_vi": "Lô hàng đã đến kho hàng sáng nay.",
+    "category": "logistics",
+    "difficulty": "core"
+  },
+  {
+    "word": "distribute",
+    "ipa": "/dɪˈstrɪbjuːt/",
+    "meaning_vi": "phân phối",
+    "example_en": "The shipment arrived at the warehouse this morning.",
+    "example_vi": "Lô hàng đã đến kho hàng sáng nay.",
+    "category": "logistics",
+    "difficulty": "advanced"
+  },
+  {
+    "word": "route",
+    "ipa": "/ruːt/",
+    "meaning_vi": "tuyến đường",
+    "example_en": "The shipment arrived at the warehouse this morning.",
+    "example_vi": "Lô hàng đã đến kho hàng sáng nay.",
+    "category": "logistics",
+    "difficulty": "core"
+  },
+  {
+    "word": "package",
+    "ipa": "/ˈpækɪdʒ/",
+    "meaning_vi": "bưu kiện",
+    "example_en": "The shipment arrived at the warehouse this morning.",
+    "example_vi": "Lô hàng đã đến kho hàng sáng nay.",
+    "category": "logistics",
+    "difficulty": "starter"
+  },
+  {
+    "word": "order",
+    "ipa": "/ˈɔːdə/",
+    "meaning_vi": "đơn hàng",
+    "example_en": "The shipment arrived at the warehouse this morning.",
+    "example_vi": "Lô hàng đã đến kho hàng sáng nay.",
+    "category": "logistics",
+    "difficulty": "starter"
+  },
+  {
+    "word": "truck",
+    "ipa": "/trʌk/",
+    "meaning_vi": "xe tải",
+    "example_en": "The shipment arrived at the warehouse this morning.",
+    "example_vi": "Lô hàng đã đến kho hàng sáng nay.",
+    "category": "logistics",
+    "difficulty": "starter"
+  },
+  {
+    "word": "account",
+    "ipa": "/əˈkaʊnt/",
+    "meaning_vi": "tài khoản",
+    "example_en": "Please check the receipt before you pay.",
+    "example_vi": "Vui lòng kiểm tra biên lai trước khi thanh toán.",
+    "category": "finance",
+    "difficulty": "core"
+  },
+  {
+    "word": "profit",
+    "ipa": "/ˈprɒfɪt/",
+    "meaning_vi": "lợi nhuận",
+    "example_en": "Please check the receipt before you pay.",
+    "example_vi": "Vui lòng kiểm tra biên lai trước khi thanh toán.",
+    "category": "finance",
+    "difficulty": "core"
+  },
+  {
+    "word": "expense",
+    "ipa": "/ɪkˈspens/",
+    "meaning_vi": "chi phí",
+    "example_en": "Please check the receipt before you pay.",
+    "example_vi": "Vui lòng kiểm tra biên lai trước khi thanh toán.",
+    "category": "finance",
+    "difficulty": "core"
+  },
+  {
+    "word": "tax",
+    "ipa": "/tæks/",
+    "meaning_vi": "thuế",
+    "example_en": "Please check the receipt before you pay.",
+    "example_vi": "Vui lòng kiểm tra biên lai trước khi thanh toán.",
+    "category": "finance",
+    "difficulty": "starter"
+  },
+  {
+    "word": "loan",
+    "ipa": "/ləʊn/",
+    "meaning_vi": "khoản vay",
+    "example_en": "Please check the receipt before you pay.",
+    "example_vi": "Vui lòng kiểm tra biên lai trước khi thanh toán.",
+    "category": "finance",
+    "difficulty": "core"
+  },
+  {
+    "word": "payment",
+    "ipa": "/ˈpeɪmənt/",
+    "meaning_vi": "thanh toán",
+    "example_en": "Please check the receipt before you pay.",
+    "example_vi": "Vui lòng kiểm tra biên lai trước khi thanh toán.",
+    "category": "finance",
+    "difficulty": "core"
+  },
+  {
+    "word": "balance",
+    "ipa": "/ˈbæləns/",
+    "meaning_vi": "số dư",
+    "example_en": "Please check the receipt before you pay.",
+    "example_vi": "Vui lòng kiểm tra biên lai trước khi thanh toán.",
+    "category": "finance",
+    "difficulty": "core"
+  },
+  {
+    "word": "deposit",
+    "ipa": "/dɪˈpɒzɪt/",
+    "meaning_vi": "tiền gửi",
+    "example_en": "Please check the receipt before you pay.",
+    "example_vi": "Vui lòng kiểm tra biên lai trước khi thanh toán.",
+    "category": "finance",
+    "difficulty": "core"
+  },
+  {
+    "word": "transfer",
+    "ipa": "/trænsˈfɜː/",
+    "meaning_vi": "chuyển khoản",
+    "example_en": "Please check the receipt before you pay.",
+    "example_vi": "Vui lòng kiểm tra biên lai trước khi thanh toán.",
+    "category": "finance",
+    "difficulty": "core"
+  },
+  {
+    "word": "receipt",
+    "ipa": "/rɪˈsiːt/",
+    "meaning_vi": "biên lai",
+    "example_en": "Please check the receipt before you pay.",
+    "example_vi": "Vui lòng kiểm tra biên lai trước khi thanh toán.",
+    "category": "finance",
+    "difficulty": "starter"
+  },
+  {
+    "word": "device",
+    "ipa": "/dɪˈvaɪs/",
+    "meaning_vi": "thiết bị",
+    "example_en": "The app needs an update tonight.",
+    "example_vi": "Ứng dụng cần một bản cập nhật vào tối nay.",
+    "category": "technology",
+    "difficulty": "core"
+  },
+  {
+    "word": "software",
+    "ipa": "/ˈsɒftweə/",
+    "meaning_vi": "phần mềm",
+    "example_en": "The app needs an update tonight.",
+    "example_vi": "Ứng dụng cần một bản cập nhật vào tối nay.",
+    "category": "technology",
+    "difficulty": "core"
+  },
+  {
+    "word": "update",
+    "ipa": "/ˈʌpdeɪt/",
+    "meaning_vi": "cập nhật",
+    "example_en": "The app needs an update tonight.",
+    "example_vi": "Ứng dụng cần một bản cập nhật vào tối nay.",
+    "category": "technology",
+    "difficulty": "core"
+  },
+  {
+    "word": "network",
+    "ipa": "/ˈnetwɜːk/",
+    "meaning_vi": "mạng lưới",
+    "example_en": "The app needs an update tonight.",
+    "example_vi": "Ứng dụng cần một bản cập nhật vào tối nay.",
+    "category": "technology",
+    "difficulty": "core"
+  },
+  {
+    "word": "password",
+    "ipa": "/ˈpɑːswɜːd/",
+    "meaning_vi": "mật khẩu",
+    "example_en": "The app needs an update tonight.",
+    "example_vi": "Ứng dụng cần một bản cập nhật vào tối nay.",
+    "category": "technology",
+    "difficulty": "starter"
+  },
+  {
+    "word": "install",
+    "ipa": "/ɪnˈstɔːl/",
+    "meaning_vi": "cài đặt",
+    "example_en": "The app needs an update tonight.",
+    "example_vi": "Ứng dụng cần một bản cập nhật vào tối nay.",
+    "category": "technology",
+    "difficulty": "core"
+  },
+  {
+    "word": "upload",
+    "ipa": "/ˈʌpləʊd/",
+    "meaning_vi": "tải lên",
+    "example_en": "The app needs an update tonight.",
+    "example_vi": "Ứng dụng cần một bản cập nhật vào tối nay.",
+    "category": "technology",
+    "difficulty": "core"
+  },
+  {
+    "word": "download",
+    "ipa": "/ˈdaʊnləʊd/",
+    "meaning_vi": "tải xuống",
+    "example_en": "The app needs an update tonight.",
+    "example_vi": "Ứng dụng cần một bản cập nhật vào tối nay.",
+    "category": "technology",
+    "difficulty": "core"
+  },
+  {
+    "word": "server",
+    "ipa": "/ˈsɜːvə/",
+    "meaning_vi": "máy chủ",
+    "example_en": "The app needs an update tonight.",
+    "example_vi": "Ứng dụng cần một bản cập nhật vào tối nay.",
+    "category": "technology",
+    "difficulty": "core"
+  },
+  {
+    "word": "backup",
+    "ipa": "/ˈbækʌp/",
+    "meaning_vi": "bản sao lưu",
+    "example_en": "The app needs an update tonight.",
+    "example_vi": "Ứng dụng cần một bản cập nhật vào tối nay.",
+    "category": "technology",
+    "difficulty": "core"
+  },
+  {
+    "word": "complaint",
+    "ipa": "/kəmˈpleɪnt/",
+    "meaning_vi": "khiếu nại",
+    "example_en": "The agent handled the complaint politely.",
+    "example_vi": "Nhân viên đã xử lý khiếu nại một cách lịch sự.",
+    "category": "customer service",
+    "difficulty": "core"
+  },
+  {
+    "word": "refund",
+    "ipa": "/ˈriːfʌnd/",
+    "meaning_vi": "hoàn tiền",
+    "example_en": "The agent handled the complaint politely.",
+    "example_vi": "Nhân viên đã xử lý khiếu nại một cách lịch sự.",
+    "category": "customer service",
+    "difficulty": "core"
+  },
+  {
+    "word": "support",
+    "ipa": "/səˈpɔːt/",
+    "meaning_vi": "hỗ trợ",
+    "example_en": "The agent handled the complaint politely.",
+    "example_vi": "Nhân viên đã xử lý khiếu nại một cách lịch sự.",
+    "category": "customer service",
+    "difficulty": "starter"
+  },
+  {
+    "word": "agent",
+    "ipa": "/ˈeɪdʒənt/",
+    "meaning_vi": "nhân viên hỗ trợ",
+    "example_en": "The agent handled the complaint politely.",
+    "example_vi": "Nhân viên đã xử lý khiếu nại một cách lịch sự.",
+    "category": "customer service",
+    "difficulty": "starter"
+  },
+  {
+    "word": "respond",
+    "ipa": "/rɪˈspɒnd/",
+    "meaning_vi": "phản hồi",
+    "example_en": "The agent handled the complaint politely.",
+    "example_vi": "Nhân viên đã xử lý khiếu nại một cách lịch sự.",
+    "category": "customer service",
+    "difficulty": "core"
+  },
+  {
+    "word": "inquiry",
+    "ipa": "/ɪnˈkwaɪəri/",
+    "meaning_vi": "thắc mắc",
+    "example_en": "The agent handled the complaint politely.",
+    "example_vi": "Nhân viên đã xử lý khiếu nại một cách lịch sự.",
+    "category": "customer service",
+    "difficulty": "core"
+  },
+  {
+    "word": "resolve",
+    "ipa": "/rɪˈzɒlv/",
+    "meaning_vi": "giải quyết",
+    "example_en": "The agent handled the complaint politely.",
+    "example_vi": "Nhân viên đã xử lý khiếu nại một cách lịch sự.",
+    "category": "customer service",
+    "difficulty": "core"
+  },
+  {
+    "word": "satisfaction",
+    "ipa": "/ˌsætɪsˈfækʃn/",
+    "meaning_vi": "sự hài lòng",
+    "example_en": "The agent handled the complaint politely.",
+    "example_vi": "Nhân viên đã xử lý khiếu nại một cách lịch sự.",
+    "category": "customer service",
+    "difficulty": "advanced"
+  },
+  {
+    "word": "policy",
+    "ipa": "/ˈpɒləsi/",
+    "meaning_vi": "chính sách",
+    "example_en": "The agent handled the complaint politely.",
+    "example_vi": "Nhân viên đã xử lý khiếu nại một cách lịch sự.",
+    "category": "customer service",
+    "difficulty": "core"
+  },
+  {
+    "word": "request",
+    "ipa": "/rɪˈkwest/",
+    "meaning_vi": "yêu cầu",
+    "example_en": "The agent handled the complaint politely.",
+    "example_vi": "Nhân viên đã xử lý khiếu nại một cách lịch sự.",
+    "category": "customer service",
+    "difficulty": "starter"
+  },
+  {
+    "word": "lesson",
+    "ipa": "/ˈlesn/",
+    "meaning_vi": "bài học",
+    "example_en": "The teacher explained the lesson clearly.",
+    "example_vi": "Giáo viên đã giải thích bài học rất rõ ràng.",
+    "category": "education",
+    "difficulty": "starter"
+  },
+  {
+    "word": "teacher",
+    "ipa": "/ˈtiːtʃə/",
+    "meaning_vi": "giáo viên",
+    "example_en": "The teacher explained the lesson clearly.",
+    "example_vi": "Giáo viên đã giải thích bài học rất rõ ràng.",
+    "category": "education",
+    "difficulty": "starter"
+  },
+  {
+    "word": "student",
+    "ipa": "/ˈstjuːdnt/",
+    "meaning_vi": "học sinh, sinh viên",
+    "example_en": "The teacher explained the lesson clearly.",
+    "example_vi": "Giáo viên đã giải thích bài học rất rõ ràng.",
+    "category": "education",
+    "difficulty": "starter"
+  },
+  {
+    "word": "assignment",
+    "ipa": "/əˈsaɪnmənt/",
+    "meaning_vi": "bài tập",
+    "example_en": "The teacher explained the lesson clearly.",
+    "example_vi": "Giáo viên đã giải thích bài học rất rõ ràng.",
+    "category": "education",
+    "difficulty": "core"
+  },
+  {
+    "word": "review",
+    "ipa": "/rɪˈvjuː/",
+    "meaning_vi": "ôn tập",
+    "example_en": "The teacher explained the lesson clearly.",
+    "example_vi": "Giáo viên đã giải thích bài học rất rõ ràng.",
+    "category": "education",
+    "difficulty": "core"
+  },
+  {
+    "word": "practice",
+    "ipa": "/ˈpræktɪs/",
+    "meaning_vi": "luyện tập",
+    "example_en": "The teacher explained the lesson clearly.",
+    "example_vi": "Giáo viên đã giải thích bài học rất rõ ràng.",
+    "category": "education",
+    "difficulty": "starter"
+  },
+  {
+    "word": "progress",
+    "ipa": "/ˈprəʊɡres/",
+    "meaning_vi": "tiến bộ",
+    "example_en": "The teacher explained the lesson clearly.",
+    "example_vi": "Giáo viên đã giải thích bài học rất rõ ràng.",
+    "category": "education",
+    "difficulty": "core"
+  },
+  {
+    "word": "score",
+    "ipa": "/skɔː/",
+    "meaning_vi": "điểm số",
+    "example_en": "The teacher explained the lesson clearly.",
+    "example_vi": "Giáo viên đã giải thích bài học rất rõ ràng.",
+    "category": "education",
+    "difficulty": "starter"
+  },
+  {
+    "word": "lecture",
+    "ipa": "/ˈlektʃə/",
+    "meaning_vi": "bài giảng",
+    "example_en": "The teacher explained the lesson clearly.",
+    "example_vi": "Giáo viên đã giải thích bài học rất rõ ràng.",
+    "category": "education",
+    "difficulty": "core"
+  },
+  {
+    "word": "tutor",
+    "ipa": "/ˈtjuːtə/",
+    "meaning_vi": "gia sư",
+    "example_en": "The teacher explained the lesson clearly.",
+    "example_vi": "Giáo viên đã giải thích bài học rất rõ ràng.",
+    "category": "education",
+    "difficulty": "core"
+  },
+  {
+    "word": "recruit",
+    "ipa": "/rɪˈkruːt/",
+    "meaning_vi": "tuyển dụng",
+    "example_en": "The company will recruit two new staff members.",
+    "example_vi": "Công ty sẽ tuyển dụng hai nhân viên mới.",
+    "category": "human resources",
+    "difficulty": "advanced"
+  },
+  {
+    "word": "interview",
+    "ipa": "/ˈɪntəvjuː/",
+    "meaning_vi": "phỏng vấn",
+    "example_en": "The company will recruit two new staff members.",
+    "example_vi": "Công ty sẽ tuyển dụng hai nhân viên mới.",
+    "category": "human resources",
+    "difficulty": "core"
+  },
+  {
+    "word": "training",
+    "ipa": "/ˈtreɪnɪŋ/",
+    "meaning_vi": "đào tạo",
+    "example_en": "The company will recruit two new staff members.",
+    "example_vi": "Công ty sẽ tuyển dụng hai nhân viên mới.",
+    "category": "human resources",
+    "difficulty": "core"
+  },
+  {
+    "word": "salary",
+    "ipa": "/ˈsæləri/",
+    "meaning_vi": "mức lương",
+    "example_en": "The company will recruit two new staff members.",
+    "example_vi": "Công ty sẽ tuyển dụng hai nhân viên mới.",
+    "category": "human resources",
+    "difficulty": "core"
+  },
+  {
+    "word": "benefit",
+    "ipa": "/ˈbenɪfɪt/",
+    "meaning_vi": "phúc lợi",
+    "example_en": "The company will recruit two new staff members.",
+    "example_vi": "Công ty sẽ tuyển dụng hai nhân viên mới.",
+    "category": "human resources",
+    "difficulty": "core"
+  },
+  {
+    "word": "hire",
+    "ipa": "/haɪə/",
+    "meaning_vi": "thuê, tuyển",
+    "example_en": "The company will recruit two new staff members.",
+    "example_vi": "Công ty sẽ tuyển dụng hai nhân viên mới.",
+    "category": "human resources",
+    "difficulty": "starter"
+  },
+  {
+    "word": "resign",
+    "ipa": "/rɪˈzaɪn/",
+    "meaning_vi": "từ chức",
+    "example_en": "The company will recruit two new staff members.",
+    "example_vi": "Công ty sẽ tuyển dụng hai nhân viên mới.",
+    "category": "human resources",
+    "difficulty": "core"
+  },
+  {
+    "word": "team",
+    "ipa": "/tiːm/",
+    "meaning_vi": "đội nhóm",
+    "example_en": "The company will recruit two new staff members.",
+    "example_vi": "Công ty sẽ tuyển dụng hai nhân viên mới.",
+    "category": "human resources",
+    "difficulty": "starter"
+  },
+  {
+    "word": "policy",
+    "ipa": "/ˈpɒləsi/",
+    "meaning_vi": "quy định",
+    "example_en": "The company will recruit two new staff members.",
+    "example_vi": "Công ty sẽ tuyển dụng hai nhân viên mới.",
+    "category": "human resources",
+    "difficulty": "core"
+  },
+  {
+    "word": "performance",
+    "ipa": "/pəˈfɔːməns/",
+    "meaning_vi": "hiệu suất",
+    "example_en": "The company will recruit two new staff members.",
+    "example_vi": "Công ty sẽ tuyển dụng hai nhân viên mới.",
+    "category": "human resources",
+    "difficulty": "advanced"
+  }
+]

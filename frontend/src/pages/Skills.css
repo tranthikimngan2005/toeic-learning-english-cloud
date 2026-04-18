@@ -1,0 +1,12 @@
+.skill-full-card { background:white;border:2px solid var(--sky2);border-radius:var(--radius-lg);padding:20px 22px;cursor:pointer;display:flex;align-items:center;gap:18px;box-shadow:var(--shadow);transition:all var(--trans);position:relative;overflow:hidden; }
+.skill-full-card::before { content:'';position:absolute;left:0;top:0;bottom:0;width:4px;background:var(--sc);opacity:0;transition:opacity var(--trans); }
+.skill-full-card:hover { transform:translateX(4px);border-color:var(--sc);box-shadow:var(--shadow2); }
+.skill-full-card:hover::before { opacity:1; }
+.sfc-img { width:64px;height:64px;object-fit:contain;flex-shrink:0;animation:float 3.2s ease-in-out infinite; }
+.sfc-body { flex:1; }
+.sfc-name { font-family:var(--font-head);font-size:18px;color:var(--navy);margin-bottom:4px; }
+.sfc-desc { font-size:13px;color:var(--text2);font-weight:600;line-height:1.4; }
+.sfc-right { text-align:right;flex-shrink:0; }
+.sfc-level { font-family:var(--font-head);font-size:22px;line-height:1; }
+.sfc-arrow { font-size:20px;color:var(--text3);margin-left:8px;transition:all var(--trans);flex-shrink:0; }
+.skill-full-card:hover .sfc-arrow { color:var(--sc);transform:translateX(4px); }

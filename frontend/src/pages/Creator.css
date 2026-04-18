@@ -1,0 +1,221 @@
+.filter-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+}
+
+.data-table-wrap {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  overflow-x: auto;
+}
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13.5px;
+}
+.data-table th {
+  text-align: left;
+  padding: 12px 16px;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--text3);
+  background: var(--bg3);
+  border-bottom: 1px solid var(--border);
+  white-space: nowrap;
+}
+.data-table td {
+  padding: 12px 16px;
+  border-bottom: 1px solid var(--border);
+  color: var(--text2);
+  vertical-align: middle;
+}
+.data-table tr:last-child td { border-bottom: none; }
+.data-table tbody tr:hover td { background: rgba(255,255,255,0.02); }
+.td-content {
+  max-width: 280px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  color: var(--text);
+}
+
+/* Modal */
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.7);
+  backdrop-filter: blur(4px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  padding: 24px;
+  animation: fadeIn 0.18s ease;
+}
+.modal-box {
+  background: var(--bg2);
+  border: 1px solid var(--border-md);
+  border-radius: var(--radius-xl);
+  width: 100%;
+  max-width: 580px;
+  max-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  box-shadow: var(--shadow-lg);
+  animation: fadeUp 0.22s ease;
+}
+.modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 24px;
+  border-bottom: 1px solid var(--border);
+}
+.modal-header h3 { font-size: 16px; font-weight: 600; color: var(--text); }
+.modal-body {
+  padding: 24px;
+  overflow-y: auto;
+  flex: 1;
+}
+.modal-footer {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  padding: 16px 24px;
+  border-top: 1px solid var(--border);
+}
+
+.creator-hub {
+  display: grid;
+  gap: 16px;
+}
+
+.creator-header {
+  display: flex;
+  gap: 14px;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.creator-tab-group {
+  display: flex;
+  gap: 8px;
+  background: #fff;
+  border: 1px solid var(--sky2);
+  border-radius: 999px;
+  padding: 4px;
+  box-shadow: var(--shadow);
+}
+
+.creator-tab-btn {
+  border: 0;
+  border-radius: 999px;
+  padding: 8px 14px;
+  font-size: 13px;
+  font-weight: 700;
+  cursor: pointer;
+  background: transparent;
+  color: var(--text2);
+  font-family: 'Inter', 'Be Vietnam Pro', sans-serif;
+}
+
+.creator-tab-btn.active {
+  background: color-mix(in srgb, var(--ocean) 14%, #fff);
+  color: var(--ocean2);
+}
+
+.creator-panel {
+  border-radius: 22px;
+  box-shadow: var(--shadow2);
+}
+
+.creator-panel-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 12px;
+  margin-bottom: 14px;
+  flex-wrap: wrap;
+}
+
+.creator-panel-header h2 {
+  font-size: 20px;
+  color: var(--navy);
+  margin-bottom: 4px;
+}
+
+.creator-panel-header p {
+  color: var(--text2);
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.creator-table {
+  border-radius: 18px;
+}
+
+.creator-empty-row {
+  text-align: center;
+  color: var(--text3);
+  font-weight: 700;
+  padding: 34px 0;
+}
+
+.creator-actions-inline {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+.creator-modal {
+  max-width: 980px;
+}
+
+.creator-question-list {
+  display: grid;
+  gap: 12px;
+}
+
+.creator-question-item {
+  border: 1px solid var(--sky2);
+  border-radius: 16px;
+  background: #f7fcff;
+  padding: 12px;
+}
+
+.creator-question-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.creator-question-head h4 {
+  font-size: 14px;
+  color: var(--navy);
+}
+
+@media (max-width: 900px) {
+  .creator-tab-group {
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  .creator-tab-btn {
+    flex: 1;
+    text-align: center;
+  }
+
+  .creator-panel-header {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}

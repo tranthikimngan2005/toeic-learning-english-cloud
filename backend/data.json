@@ -1,0 +1,1000 @@
+[
+  {
+    "part": 5,
+    "level": 300,
+    "question_text": "Harbison's Department Store interviews applicants _______ standard business hours.",
+    "options": [
+      "among",
+      "beside",
+      "during",
+      "onto"
+    ],
+    "correct_answer": "during",
+    "explanation": "Giới từ 'during' dùng để chỉ một hành động xảy ra trong suốt một khoảng thời gian (giờ hành chính). ",
+    "tag": "Grammar-Preposition"
+  },
+  {
+    "part": 5,
+    "level": 300,
+    "question_text": "Hold the tomato seedling gently by the stem in order to avoid harming _______ roots.",
+    "options": [
+      "its",
+      "at",
+      "that",
+      "in"
+    ],
+    "correct_answer": "its",
+    "explanation": "Cần tính từ sở hữu 'its' để thay thế cho danh từ số ít chỉ vật 'tomato seedling'. ",
+    "tag": "Grammar-Pronouns"
+  },
+  {
+    "part": 5,
+    "level": 300,
+    "question_text": "The community picnic will be held _______ the park behind the Seltzer Public Library.",
+    "options": [
+      "in",
+      "all",
+      "for",
+      "here"
+    ],
+    "correct_answer": "in",
+    "explanation": "Dùng giới từ 'in' để chỉ vị trí nằm trong một địa điểm như công viên. ",
+    "tag": "Grammar-Preposition"
+  },
+  {
+    "part": 5,
+    "level": 300,
+    "question_text": "The new hires _______ for an orientation on May 10 at 9:00 A.M.",
+    "options": [
+      "to be gathering",
+      "will gather",
+      "gathering",
+      "to gather"
+    ],
+    "correct_answer": "will gather",
+    "explanation": "Câu cần một động từ chính chia ở thì tương lai đơn để chỉ một sự kiện sắp diễn ra. ",
+    "tag": "Grammar-Tenses"
+  },
+  {
+    "part": 5,
+    "level": 300,
+    "question_text": "Registration for the Marketing Coalition Conference is now open _______ September 30.",
+    "options": [
+      "until",
+      "into",
+      "yet",
+      "while"
+    ],
+    "correct_answer": "until",
+    "explanation": "Giới từ 'until' dùng để diễn tả một trạng thái kéo dài cho tới một mốc thời gian nhất định. ",
+    "tag": "Grammar-Preposition"
+  },
+  {
+    "part": 5,
+    "level": 300,
+    "question_text": "ABC Truck Supplies has the _______ selection of mufflers in the state.",
+    "options": [
+      "natural",
+      "widest",
+      "overall",
+      "positive"
+    ],
+    "correct_answer": "widest",
+    "explanation": "Dùng tính từ so sánh nhất 'widest' để mô tả một sự lựa chọn phong phú nhất. ",
+    "tag": "Grammar-Comparison"
+  },
+  {
+    "part": 5,
+    "level": 300,
+    "question_text": "Please make sure that _______ personal belongings are safely stored out of sight.",
+    "options": [
+      "you",
+      "yourself",
+      "yours",
+      "your"
+    ],
+    "correct_answer": "your",
+    "explanation": "Cần một tính từ sở hữu 'your' đứng trước cụm danh từ 'personal belongings'. ",
+    "tag": "Grammar-Pronouns"
+  },
+  {
+    "part": 5,
+    "level": 300,
+    "question_text": "Tonight at Harbor Falls Library, writer Delroy Greene will be _______ stories from his childhood.",
+    "options": [
+      "dividing",
+      "sharing",
+      "using",
+      "awarding"
+    ],
+    "correct_answer": "sharing",
+    "explanation": "Động từ 'sharing' (chia sẻ) là phù hợp nhất với ngữ cảnh kể chuyện tại thư viện. ",
+    "tag": "Vocab-Business"
+  },
+  {
+    "part": 5,
+    "level": 300,
+    "question_text": "The order is estimated to arrive _______ November 15.",
+    "options": [
+      "by",
+      "until",
+      "at",
+      "down"
+    ],
+    "correct_answer": "by",
+    "explanation": "Giới từ 'by' được dùng để chỉ thời hạn cuối cùng mà một việc sẽ được hoàn thành. ",
+    "tag": "Grammar-Preposition"
+  },
+  {
+    "part": 5,
+    "level": 300,
+    "question_text": "Paik Company increased its sales projections _______ the current year.",
+    "options": [
+      "when",
+      "for",
+      "if",
+      "or"
+    ],
+    "correct_answer": "for",
+    "explanation": "Dùng 'for' để chỉ mục tiêu hoặc đối tượng liên quan đến thời gian (cho năm hiện tại). ",
+    "tag": "Grammar-Preposition"
+  },
+  {
+    "part": 5,
+    "level": 300,
+    "question_text": "Barder House Books will be holding _______ third author's hour in Cleveland next month.",
+    "options": ["it", "itself", "its own", "its"],
+    "correct_answer": "its",
+    "explanation": "Cần một tính từ sở hữu 'its' để thay thế cho danh từ số ít 'Barder House Books'[cite: 1038, 1043].",
+    "tag": "Grammar-Pronouns"
+  },
+  {
+    "part": 5,
+    "level": 300,
+    "question_text": "Remember to submit receipts for _______ when returning from a business trip.",
+    "options": ["such as", "when", "then", "reimbursement"],
+    "correct_answer": "reimbursement",
+    "explanation": "Dựa vào ngữ cảnh 'submit receipts' (nộp hóa đơn), danh từ 'reimbursement' (sự hoàn tiền) là phù hợp nhất[cite: 1090, 1091].",
+    "tag": "Vocab-Office"
+  },
+  {
+    "part": 5,
+    "level": 300,
+    "question_text": "Patrons will be able to access Westside Library's _______ acquired collection of books on Tuesday.",
+    "options": ["instantly", "newly", "early", "naturally"],
+    "correct_answer": "newly",
+    "explanation": "Trạng từ 'newly' bổ nghĩa cho tính từ 'acquired' tạo thành cụm 'mới được thu thập'[cite: 1113, 1117].",
+    "tag": "Grammar-WordForm"
+  },
+  {
+    "part": 5,
+    "level": 500,
+    "question_text": "One responsibility of the IT department is to ensure that the company is using _______ software.",
+    "options": [
+      "update",
+      "updating",
+      "updates",
+      "updated"
+    ],
+    "correct_answer": "updated",
+    "explanation": "Cần một tính từ (ở dạng quá khứ phân từ) để bổ nghĩa cho danh từ 'software', mang nghĩa 'đã được cập nhật'.",
+    "tag": "Grammar-WordForm"
+  },
+  {
+    "part": 5,
+    "level": 500,
+    "question_text": "Wheel alignments and brake system _______ are part of our vehicle service plan.",
+    "options": [
+      "inspects",
+      "inspector",
+      "inspected",
+      "inspections"
+    ],
+    "correct_answer": "inspections",
+    "explanation": "Cần một danh từ số nhiều làm chủ ngữ cho động từ 'are', tạo thành cấu trúc liệt kê song song với 'Wheel alignments'.",
+    "tag": "Grammar-WordForm"
+  },
+  {
+    "part": 5,
+    "level": 500,
+    "question_text": "Tabrino's has _______ increased the number of almonds in the Nut Medley snack pack.",
+    "options": [
+      "significant",
+      "significance",
+      "signifies",
+      "significantly"
+    ],
+    "correct_answer": "significantly",
+    "explanation": "Cần một trạng từ (Adverb) để bổ nghĩa cho động từ 'increased'.",
+    "tag": "Grammar-WordForm"
+  },
+  {
+    "part": 5,
+    "level": 500,
+    "question_text": "We hired Noah Wan of Shengyao Accounting Ltd. _______ our company's financial assets.",
+    "options": [
+      "to evaluate",
+      "to be evaluated",
+      "will be evaluated",
+      "evaluate"
+    ],
+    "correct_answer": "to evaluate",
+    "explanation": "Sử dụng 'to-infinitive' để chỉ mục đích của việc thuê người (hired somebody to do something).",
+    "tag": "Grammar-VerbForm"
+  },
+  {
+    "part": 5,
+    "level": 500,
+    "question_text": "Funds have been added to the budget for _______ expenses with the new building.",
+    "options": [
+      "associated",
+      "association",
+      "associate",
+      "associates"
+    ],
+    "correct_answer": "associated",
+    "explanation": "Cụm tính từ 'associated with' (liên quan đến) dùng để bổ nghĩa cho danh từ 'expenses' đứng trước.",
+    "tag": "Grammar-WordForm"
+  },
+  {
+    "part": 5,
+    "level": 500,
+    "question_text": "Mr. Telguld submitted the _______ surveys before the monthly board meeting.",
+    "options": [
+      "completely",
+      "completed",
+      "completing",
+      "completes"
+    ],
+    "correct_answer": "completed",
+    "explanation": "Cần một tính từ (dạng phân từ) để mô tả trạng thái 'đã được hoàn thành' của danh từ 'surveys'.",
+    "tag": "Grammar-WordForm"
+  },
+  {
+    "part": 5,
+    "level": 500,
+    "question_text": "Small businesses _______ participate in the Get Ahead program will receive marketing tools.",
+    "options": [
+      "that",
+      "they",
+      "what",
+      "whoever"
+    ],
+    "correct_answer": "that",
+    "explanation": "Sử dụng đại từ quan hệ 'that' để thay thế cho danh từ chỉ vật/nhóm 'Small businesses'.",
+    "tag": "Grammar-RelativeClause"
+  },
+  {
+    "part": 5,
+    "level": 500,
+    "question_text": "Using various innovative techniques, Boyd Industries has improved the _______ of its tiles.",
+    "options": [
+      "closure",
+      "product",
+      "quality",
+      "method"
+    ],
+    "correct_answer": "quality",
+    "explanation": "Dựa vào ngữ cảnh 'kỹ thuật đổi mới', việc cải thiện 'chất lượng' (quality) của sản phẩm là hợp lý nhất.",
+    "tag": "Vocab-Business"
+  },
+  {
+    "part": 5,
+    "level": 500,
+    "question_text": "The hairstylists at Urbanite Salon have _______ experience working with a variety of hair products.",
+    "options": [
+      "considers",
+      "considerable",
+      "considerate",
+      "considering"
+    ],
+    "correct_answer": "considerable",
+    "explanation": "Cần tính từ 'considerable' (đáng kể) để bổ nghĩa cho danh từ 'experience'.",
+    "tag": "Grammar-WordForm"
+  },
+  {
+    "part": 5,
+    "level": 500,
+    "question_text": "By switching to new project-management software, the editorial team has improved its publication processes _______.",
+    "options": [
+      "great",
+      "greatly",
+      "greater",
+      "greatest"
+    ],
+    "correct_answer": "greatly",
+    "explanation": "Trạng từ 'greatly' dùng để bổ nghĩa cho động từ 'improved'.",
+    "tag": "Grammar-WordForm"
+  },
+  {
+    "part": 5,
+    "level": 750,
+    "question_text": "We cannot send the store's coupon booklet to the printers until it _______ by Ms. Jeon.",
+    "options": [
+      "is approving",
+      "approves",
+      "has been approved",
+      "will be approved"
+    ],
+    "correct_answer": "has been approved",
+    "explanation": "Trong mệnh đề trạng ngữ chỉ thời gian bắt đầu bằng 'until', ta dùng thì hiện tại hoàn thành để nhấn mạnh một hành động phải hoàn thành xong trước một hành động khác. Ở đây là dạng bị động.",
+    "tag": "Grammar-Tenses"
+  },
+  {
+    "part": 5,
+    "level": 750,
+    "question_text": "The company handbook outlines the high _______ that employees are expected to meet every day.",
+    "options": [
+      "experts",
+      "accounts",
+      "recommendations",
+      "standards"
+    ],
+    "correct_answer": "standards",
+    "explanation": "Dựa vào ngữ cảnh 'outlines' (phác thảo/quy định) và 'expected to meet' (mong đợi đạt được), danh từ 'standards' (tiêu chuẩn) là phù hợp nhất.",
+    "tag": "Vocab-Business"
+  },
+  {
+    "part": 5,
+    "level": 750,
+    "question_text": "Emerging technologies have _______ begun to transform the shipping industry in ways that were once unimaginable.",
+    "options": [
+      "already",
+      "exactly",
+      "hardly",
+      "closely"
+    ],
+    "correct_answer": "already",
+    "explanation": "Trạng từ 'already' dùng trong thì hiện tại hoàn thành để chỉ một việc đã xảy ra, phù hợp để nhấn mạnh sự thay đổi của công nghệ.",
+    "tag": "Grammar-Adverb"
+  },
+  {
+    "part": 5,
+    "level": 750,
+    "question_text": "The project _______ the collaboration of several teams across the company.",
+    "options": [
+      "passed",
+      "decided",
+      "required",
+      "performed"
+    ],
+    "correct_answer": "required",
+    "explanation": "Về mặt ý nghĩa, một dự án cần có 'the collaboration' (sự cộng tác), nên động từ 'required' (yêu cầu) là chính xác nhất.",
+    "tag": "Vocab-Office"
+  },
+  {
+    "part": 5,
+    "level": 750,
+    "question_text": "Because _______ of the board members have scheduling conflicts, the board meeting will be moved to a date when all can attend.",
+    "options": [
+      "any",
+      "everybody",
+      "those",
+      "some"
+    ],
+    "correct_answer": "some",
+    "explanation": "Dùng 'some' để chỉ một vài thành viên trong nhóm cụ thể. 'Everybody' không đi với 'of the board members' theo cấu trúc này.",
+    "tag": "Grammar-Quantifiers"
+  },
+  {
+    "part": 5,
+    "level": 750,
+    "question_text": "The information provided by Uniss Bank's brochure helps applicants _______ understand the terms of their loans.",
+    "options": [
+      "arbitrary",
+      "supplemental",
+      "superfluous",
+      "potential"
+    ],
+    "correct_answer": "supplemental",
+    "explanation": "Tính từ 'supplemental' (bổ sung) phù hợp để mô tả thông tin giúp người vay hiểu rõ hơn các điều khoản.",
+    "tag": "Vocab-Business"
+  },
+  {
+    "part": 5,
+    "level": 750,
+    "question_text": "_______ the closure of Verdigold Transport Services, we are looking for a new shipping company.",
+    "options": [
+      "In spite of",
+      "Just as",
+      "In light of",
+      "According to"
+    ],
+    "correct_answer": "In light of",
+    "explanation": "'In light of' (bởi vì/xét theo) dùng để chỉ lý do dẫn đến hành động tìm kiếm công ty vận chuyển mới.",
+    "tag": "Grammar-Conjunction"
+  },
+  {
+    "part": 5,
+    "level": 750,
+    "question_text": "Mia Daushvili performed with the Bayhead Orchestra on Monday evening, _______ her virtuosic skills on the piccolo.",
+    "options": [
+      "displays",
+      "had displayed",
+      "displaying",
+      "was displayed"
+    ],
+    "correct_answer": "displaying",
+    "explanation": "Đây là cấu trúc rút gọn mệnh đề quan hệ dạng chủ động (mệnh đề phân từ), dùng để bổ sung thông tin cho hành động biểu diễn trước đó.",
+    "tag": "Grammar-ParticipleClause"
+  },
+  {
+    "part": 5,
+    "level": 750,
+    "question_text": "The CEO wants a greater portion of next year's budget _______ to research and development.",
+    "options": [
+      "allocated",
+      "imprinted",
+      "economized",
+      "rationalized"
+    ],
+    "correct_answer": "allocated",
+    "explanation": "Cấu trúc 'want something + P2'. 'Allocated' (được phân bổ) là thuật ngữ chuyên dụng cho ngân sách.",
+    "tag": "Vocab-Business"
+  },
+  {
+    "part": 5,
+    "level": 750,
+    "question_text": "Mr. Nayar _______ the need for enhanced safety protocols long before the government issued a report on the topic.",
+    "options": [
+      "stresses",
+      "stressing",
+      "will stress",
+      "had stressed"
+    ],
+    "correct_answer": "had stressed",
+    "explanation": "Dùng thì quá khứ hoàn thành (had stressed) để diễn tả một hành động xảy ra và hoàn thành trước một hành động khác trong quá khứ (issued).",
+    "tag": "Grammar-Tenses"
+  },
+  {
+    "part": 5,
+    "level": 900,
+    "question_text": "The northbound lane on Davis Street will be _______ closed because of the city's bridge reinforcement project.",
+    "options": [
+      "temporarily",
+      "competitively",
+      "recently",
+      "collectively"
+    ],
+    "correct_answer": "temporarily",
+    "explanation": "Dựa vào mục đích 'reinforcement project' (dự án gia cố), việc đóng cửa đường thường chỉ mang tính 'tạm thời' (temporarily).",
+    "tag": "Vocab-Office"
+  },
+  {
+    "part": 5,
+    "level": 900,
+    "question_text": "Should you decide to close your account, no action is necessary.",
+    "options": [
+      "Also",
+      "Should",
+      "Because",
+      "Although"
+    ],
+    "correct_answer": "Should",
+    "explanation": "Đây là cấu trúc đảo ngữ của câu điều kiện loại 1 (Should you decide = If you decide), thường dùng trong văn phong trang trọng của ngân hàng hoặc hợp đồng.",
+    "tag": "Grammar-Inversion"
+  },
+  {
+    "part": 5,
+    "level": 900,
+    "question_text": "The contract states that Solcus Corporation will be _______ for any costs resulting from work delays.",
+    "options": [
+      "accountable",
+      "manageable",
+      "knowledgeable",
+      "flexible"
+    ],
+    "correct_answer": "accountable",
+    "explanation": "Tính từ 'accountable' (chịu trách nhiệm giải trình) là thuật ngữ pháp lý/hợp đồng chính xác nhất khi nói về việc chi trả chi phí phát sinh do chậm trễ.",
+    "tag": "Vocab-Business"
+  },
+  {
+    "part": 5,
+    "level": 900,
+    "question_text": "Workshop attendees are asked to _______ from asking questions until the end of the formal presentation.",
+    "options": [
+      "refrain",
+      "forbid",
+      "retreat",
+      "hesitate"
+    ],
+    "correct_answer": "refrain",
+    "explanation": "Cấu trúc 'refrain from doing something' (kiềm chế/vui lòng không làm gì) là cách diễn đạt cực kỳ trang trọng trong các thông báo chính thức.",
+    "tag": "Vocab-Office"
+  },
+  {
+    "part": 5,
+    "level": 900,
+    "question_text": "Critics agree that the movie An Unusual Introduction _______ combines computer-generated images and live action.",
+    "options": [
+      "seamlessly",
+      "collectively",
+      "factually",
+      "distantly"
+    ],
+    "correct_answer": "seamlessly",
+    "explanation": "Trạng từ 'seamlessly' (một cách mượt mà/không tì vết) là từ chuyên dụng để mô tả sự kết hợp hoàn hảo giữa kỹ xảo và đời thực trong nghệ thuật.",
+    "tag": "Vocab-Business"
+  },
+  {
+    "part": 5,
+    "level": 900,
+    "question_text": "Each Fisko eyeglass frame comes in various _______, including round, square, and oval.",
+    "options": [
+      "sights",
+      "methods",
+      "shapes",
+      "materials"
+    ],
+    "correct_answer": "shapes",
+    "explanation": "Yêu cầu sự chính xác trong từ vựng. 'Round, square, oval' (tròn, vuông, trái xoan) là các 'hình dáng' (shapes) của gọng kính.",
+    "tag": "Vocab-Office"
+  },
+  {
+    "part": 5,
+    "level": 900,
+    "question_text": "The board of trustees debated for hours _______ the revised hiring policies.",
+    "options": [
+      "during",
+      "above",
+      "over",
+      "across"
+    ],
+    "correct_answer": "over",
+    "explanation": "Động từ 'debate over something' (tranh luận về vấn đề gì đó) là cách dùng giới từ nâng cao trong bối cảnh cuộc họp ban quản trị.",
+    "tag": "Grammar-Preposition"
+  },
+  {
+    "part": 6, "level": 300,
+    "passage": "To: All Staff\nFrom: Yoreli Costa\nDate: February 15\nSubject: Florence Shawn\n\nI have news to share about a (131) _______ in the human resources department. After nearly twenty years with Cometti Creative, Florence Shawn has decided to retire... Ms. Shawn (132) _______ Mr. Ichise since he joined the company five years ago. Ms. Shawn's (133) _______ day will be February 22.",
+    "questions": [
+      {"question_text": "(131)", "options": ["difference", "strategy", "change", "practice"], "correct_answer": "change", "explanation": "Dựa vào thông tin bà Florence nghỉ hưu và có người thay thế, đây là một 'sự thay đổi' nhân sự.", "tag": "Vocab-Office"},
+      {"question_text": "(132)", "options": ["mentors", "is mentoring", "will mentor", "has been mentoring"], "correct_answer": "has been mentoring", "explanation": "Thì hiện tại hoàn thành tiếp diễn cho hành động kéo dài 5 năm.", "tag": "Grammar-Tenses"},
+      {"question_text": "(133)", "options": ["last", "original", "flexible", "alternate"], "correct_answer": "last", "explanation": "Ngày làm việc cuối cùng.", "tag": "Vocab-Office"}
+    ]
+  },
+  {
+    "part": 6, "level": 300,
+    "passage": "Estella Guitar Lessons: Play with the Best\n\nWhether you play acoustic (134) _______ electric, taking lessons with an Estella Guitar teacher is the best way to improve your ability. (135) _______ qualified instructors can tailor lessons to focus on the skills you want to fine-tune.",
+    "questions": [
+      {"question_text": "(134)", "options": ["is", "or", "likely", "from"], "correct_answer": "or", "explanation": "Cấu trúc 'Whether A or B'.", "tag": "Grammar-Conjunction"},
+      {"question_text": "(135)", "options": ["our", "ourselves", "ours", "us"], "correct_answer": "our", "explanation": "Tính từ sở hữu đứng trước cụm danh từ.", "tag": "Grammar-Pronouns"}
+    ]
+  },
+  {
+    "part": 6, "level": 300,
+    "passage": "To: Thao Pham\nFrom: Leena Montoya\nDate: April 17\nSubject: Subscription\n\nYour subscription has been canceled. (136) _______ May 1, you will no longer receive the print edition. We hope you consider becoming a (137) _______ of our publications once again.",
+    "questions": [
+      {"question_text": "(136)", "options": ["Starts", "Started", "Starter", "Starting"], "correct_answer": "Starting", "explanation": "Starting + mốc thời gian dùng để chỉ thời điểm bắt đầu.", "tag": "Grammar-WordForm"},
+      {"question_text": "(137)", "options": ["distributor", "producer", "reader", "teacher"], "correct_answer": "reader", "explanation": "Người mua tạp chí là độc giả (reader).", "tag": "Vocab-Business"}
+    ]
+  },
+  {
+    "part": 6, "level": 300,
+    "passage": "To: Myung-Hee Hahn\nFrom: Dellwyn Home Store\n\nYour order of a dining table and chairs (138) _______ arrived at our store. We would now like to arrange for the delivery of the (139) _______. Please call our delivery manager.",
+    "questions": [
+      {"question_text": "(138)", "options": ["has", "have", "is", "are"], "correct_answer": "have", "explanation": "Chủ ngữ số nhiều 'table and chairs' đi với have.", "tag": "Grammar-Tenses"},
+      {"question_text": "(139)", "options": ["furniture", "appliances", "refund", "tools"], "correct_answer": "furniture", "explanation": "Bàn ghế thuộc nhóm đồ nội thất.", "tag": "Vocab-Office"}
+    ]
+  },
+  {
+    "part": 6, "level": 300,
+    "passage": "Notice: Office Renovation\nOur office will be (140) _______ next week for painting. Please ensure all your (141) _______ are stored in desks.",
+    "questions": [
+      {"question_text": "(140)", "options": ["close", "closed", "closing", "closely"], "correct_answer": "closed", "explanation": "Cần tính từ trạng thái 'closed'.", "tag": "Grammar-WordForm"},
+      {"question_text": "(141)", "options": ["item", "items", "itemized", "itemizing"], "correct_answer": "items", "explanation": "Cần danh từ số nhiều làm tân ngữ.", "tag": "Grammar-WordForm"}
+    ]
+  },
+  {
+    "part": 6, "level": 500,
+    "passage": "Maxley Heights Center for Horticulture\nLearn how to create a beautiful garden. (131) _______. We will teach you how to plant a rain garden (132) _______ a special soil mix to filter pollutants.",
+    "questions": [
+      {"question_text": "(131)", "options": ["Children like gardens.", "Next Saturday, we host a free workshop.", "Bring your own tools.", "Flowers are beautiful."], "correct_answer": "Next Saturday, we host a free workshop.", "explanation": "Câu mở đầu giới thiệu chương trình học.", "tag": "Reading-Detail"},
+      {"question_text": "(132)", "options": ["that uses", "used to", "by using", "use"], "correct_answer": "that uses", "explanation": "Mệnh đề quan hệ bổ nghĩa cho garden.", "tag": "Grammar-RelativeClause"}
+    ]
+  },
+  {
+    "part": 6, "level": 500,
+    "passage": "Keep Cool Service Contractors\nWe will service your air-conditioning system, ensuring your (133) _______ and comfort. (134) _______, if necessary, we can replace your old system.",
+    "questions": [
+      {"question_text": "(133)", "options": ["safe", "safely", "safest", "safety"], "correct_answer": "safety", "explanation": "Cần danh từ sau tính từ sở hữu.", "tag": "Grammar-WordForm"},
+      {"question_text": "(134)", "options": ["Furthermore", "Nonetheless", "Indeed", "Otherwise"], "correct_answer": "Furthermore", "explanation": "Dùng để bổ sung thêm thông tin dịch vụ.", "tag": "Grammar-Conjunction"}
+    ]
+  },
+  {
+    "part": 6, "level": 500,
+    "passage": "Dear Light Idea Customers,\nLight Idea is enacting a price increase effective April 17. Specific product pricing will (135) _______. Please (136) _______ your representative.",
+    "questions": [
+      {"question_text": "(135)", "options": ["agree", "vary", "wait", "decline"], "correct_answer": "vary", "explanation": "Giá cả sẽ thay đổi tùy mặt hàng.", "tag": "Vocab-Business"},
+      {"question_text": "(136)", "options": ["contact", "contacts", "contacting", "contacted"], "correct_answer": "contact", "explanation": "Câu mệnh lệnh sau Please.", "tag": "Grammar-VerbForm"}
+    ]
+  },
+  {
+    "part": 6, "level": 500,
+    "passage": "Employee Handbook Update\nAll staff must read the new policies. (137) _______ employees must sign the acknowledgment form. Failure to do so will (138) _______ a meeting with HR.",
+    "questions": [
+      {"question_text": "(137)", "options": ["All", "Every", "Each", "Anyone"], "correct_answer": "All", "explanation": "Đi với danh từ số nhiều 'employees'.", "tag": "Grammar-Quantifiers"},
+      {"question_text": "(138)", "options": ["require", "requires", "requiring", "required"], "correct_answer": "require", "explanation": "Sau động từ khuyết thiếu 'will'.", "tag": "Grammar-VerbForm"}
+    ]
+  },
+  {
+    "part": 6, "level": 500,
+    "passage": "Customer Feedback Survey\nThank you for (139) _______ our store. We value your (140) _______ to help us improve.",
+    "questions": [
+      {"question_text": "(139)", "options": ["visit", "visiting", "visited", "visits"], "correct_answer": "visiting", "explanation": "Sau giới từ 'for' dùng V-ing.", "tag": "Grammar-VerbForm"},
+      {"question_text": "(140)", "options": ["opinion", "suggest", "improve", "commentary"], "correct_answer": "opinion", "explanation": "Cần danh từ nghĩa là ý kiến.", "tag": "Vocab-Office"}
+    ]
+  },
+  {
+    "part": 6, "level": 750,
+    "passage": "Dear Mr. Hughes,\nYour library card will expire soon. (141) _______ must be renewed. (142) _______. (143) _______ you decide to close it, no action is needed.",
+    "questions": [
+      {"question_text": "(141)", "options": ["It", "You", "Our", "Each"], "correct_answer": "It", "explanation": "Thay thế cho 'library card'.", "tag": "Grammar-Pronouns"},
+      {"question_text": "(142)", "options": ["Visit us online.", "Renewal must be done 1 week early.", "We have books.", "Closed Sundays."], "correct_answer": "Renewal must be done 1 week early.", "explanation": "Phù hợp logic thời hạn thông báo.", "tag": "Reading-Detail"},
+      {"question_text": "(143)", "options": ["Also", "Should", "Because", "Although"], "correct_answer": "Should", "explanation": "Đảo ngữ: Should you decide = If you decide.", "tag": "Grammar-Inversion"}
+    ]
+  },
+  {
+    "part": 6, "level": 750,
+    "passage": "Droplight Studio manager:\nWe offer real estate photography. (144) _______. We take pride in interior shots. Every image (145) _______ expert editing.",
+    "questions": [
+      {"question_text": "(144)", "options": ["Welcome to us.", "Great photos make property stand out.", "Visit us.", "First studio here."], "correct_answer": "Great photos make property stand out.", "explanation": "Kết nối ý nghĩa dịch vụ với lợi ích khách hàng.", "tag": "Reading-Main Idea"},
+      {"question_text": "(145)", "options": ["receives", "is receiving", "had received", "had to receive"], "correct_answer": "receives", "explanation": "Thì hiện tại đơn diễn tả quy trình.", "tag": "Grammar-Tenses"}
+    ]
+  },
+  {
+    "part": 6, "level": 750,
+    "passage": "Tokyo Fashion Week Gala\nThank you for help planning the gala. The event was a (146) _______ success. Your designs received much (147) _______ on social media.",
+    "questions": [
+      {"question_text": "(146)", "options": ["amazed", "amazement", "amazing", "amazingly"], "correct_answer": "amazing", "explanation": "Tính từ bổ nghĩa cho 'success'.", "tag": "Grammar-WordForm"},
+      {"question_text": "(147)", "options": ["attention", "proposals", "innovation", "criticism"], "correct_answer": "attention", "explanation": "Cụm 'receive attention' (nhận được sự chú ý).", "tag": "Vocab-Business"}
+    ]
+  },
+  {
+    "part": 6, "level": 750,
+    "passage": "Software License Agreement\nPlease review the terms. Your (148) _______ to content is contingent upon these terms. (149) _______, we encourage you to accept them.",
+    "questions": [
+      {"question_text": "(148)", "options": ["access", "accessed", "accessing", "accessible"], "correct_answer": "access", "explanation": "Cần danh từ sau tính từ sở hữu 'Your'.", "tag": "Grammar-WordForm"},
+      {"question_text": "(149)", "options": ["therefore", "nevertheless", "in contrast", "otherwise"], "correct_answer": "therefore", "explanation": "Chỉ kết quả: vì lý do đó, do đó.", "tag": "Grammar-Conjunction"}
+    ]
+  },
+  {
+    "part": 6, "level": 750,
+    "passage": "Logistics Change Notice\nWe are moving to a new warehouse. This (150) _______ will reduce delivery times. All (151) _______ shipments will be diverted.",
+    "questions": [
+      {"question_text": "(150)", "options": ["transition", "transfer", "transcribe", "transact"], "correct_answer": "transition", "explanation": "Sự chuyển đổi/chuyển giao cơ sở.", "tag": "Vocab-Office"},
+      {"question_text": "(151)", "options": ["incoming", "incomes", "incomely", "incomer"], "correct_answer": "incoming", "explanation": "Tính từ bổ nghĩa cho 'shipments' (hàng đang đến).", "tag": "Grammar-WordForm"}
+    ]
+  },
+
+  {
+    "part": 6, "level": 900,
+    "passage": "Commercial Kitchen Safety\nRefrigerators must have thermometers that (152) _______ from 0°F to 220°F. Placement is key. (153) _______. This ensures they are easily (154) _______ when the door opens.",
+    "questions": [
+      {"question_text": "(152)", "options": ["ranges", "ranger", "ranged", "ranging"], "correct_answer": "ranges", "explanation": "Quy tắc kỹ thuật dùng hiện tại đơn.", "tag": "Grammar-WordForm"},
+      {"question_text": "(153)", "options": ["Remove them.", "This is inside the door.", "Keep cool.", "Buy in bulk."], "correct_answer": "This is inside the door.", "explanation": "Logic với hành động mở cửa ở câu sau.", "tag": "Reading-Context"},
+      {"question_text": "(154)", "options": ["seen", "repaired", "removed", "calibrated"], "correct_answer": "seen", "explanation": "Dễ nhìn thấy để kiểm tra nhiệt độ.", "tag": "Vocab-Business"}
+    ]
+  },
+  {
+    "part": 6, "level": 900,
+    "passage": "D-Zine Pop Terms of Service\nWhat started as an experiment (155) _______ into a platform. Access is dependent on consenting to terms; (156) _______, we encourage review.",
+    "questions": [
+      {"question_text": "(155)", "options": ["evolved", "evolution", "evolving", "has evolved"], "correct_answer": "has evolved", "explanation": "Quá trình từ quá khứ đến hiện tại.", "tag": "Grammar-Tenses"},
+      {"question_text": "(156)", "options": ["therefore", "however", "instead", "yet"], "correct_answer": "therefore", "explanation": "Liên từ chỉ hệ quả.", "tag": "Grammar-Conjunction"}
+    ]
+  },
+  {
+    "part": 6, "level": 900,
+    "passage": "Security Infrastructure Audit\nThe board (157) _______ for hours over the new security policies. It was decided that (158) _______ to the server will be strictly monitored.",
+    "questions": [
+      {"question_text": "(157)", "options": ["debated", "debating", "debate", "debater"], "correct_answer": "debated", "explanation": "Hành động đã xảy ra trong quá khứ.", "tag": "Grammar-Tenses"},
+      {"question_text": "(158)", "options": ["entry", "admission", "access", "gate"], "correct_answer": "access", "explanation": "Quyền truy cập vào máy chủ (access to server).", "tag": "Vocab-Business"}
+    ]
+  },
+  {
+    "part": 6, "level": 900,
+    "passage": "Corporate Acquisition Notice\nInnovate Solutions will (159) _______ Global Tech by August. This merger will (160) _______ our market position. Employees are (161) _______ to stay.",
+    "questions": [
+      {"question_text": "(159)", "options": ["acquire", "acquired", "acquires", "acquisition"], "correct_answer": "acquire", "explanation": "Sau động từ khuyết thiếu 'will'.", "tag": "Grammar-VerbForm"},
+      {"question_text": "(160)", "options": ["strengthen", "strength", "strong", "strongly"], "correct_answer": "strengthen", "explanation": "Động từ làm mạnh thêm vị thế.", "tag": "Grammar-WordForm"},
+      {"question_text": "(161)", "options": ["encouraged", "encouragement", "encourage", "encouraging"], "correct_answer": "encouraged", "explanation": "Dạng bị động: được khuyến khích.", "tag": "Grammar-Passive"}
+    ]
+  },
+  {
+    "part": 6, "level": 900,
+    "passage": "Medical Trial Findings\nThe study (162) _______ that the new drug is effective. (163) _______, side effects were minimal. We will (164) _______ to the next phase.",
+    "questions": [
+      {"question_text": "(162)", "options": ["concluded", "conclusion", "conclusive", "conclude"], "correct_answer": "concluded", "explanation": "Báo cáo kết quả nghiên cứu.", "tag": "Grammar-Tenses"},
+      {"question_text": "(163)", "options": ["Furthermore", "Otherwise", "Despite", "Unless"], "correct_answer": "Furthermore", "explanation": "Bổ sung thêm thông tin tích cực.", "tag": "Grammar-Conjunction"},
+      {"question_text": "(164)", "options": ["proceed", "proceeding", "process", "proceeded"], "correct_answer": "proceed", "explanation": "Tiến tới giai đoạn tiếp theo.", "tag": "Vocab-Business"}
+    ]
+  },
+  {
+    "part": 7,
+    "level": 300,
+    "passage": "Joan Chi (12:39 P.M.): Hello Mina. Are you almost finished with the field measurements? I'm getting hungry. \nMina Evers (12:40 P.M.): Sorry, Joan. I'm afraid you and Ms. Lim will have to go to lunch without me today. There's a problem with the site coordinates. This is going to take some time. \nJoan Chi (12:51 P.M.): Oh no. Should we bring something back for you? \nMina Evers (12:59 P.M.): Get me a chicken sandwich. \nJoan Chi (1:00 P.M.): Sure thing, Mina. See you in a while. ",
+    "questions": [
+      {
+        "question_text": "At 1:00 P.M., what does Ms. Chi most likely mean when she writes, 'Sure thing, Mina'?",
+        "options": ["She will bring lunch for Ms. Evers.", "She can provide a tool that Ms. Evers needs.", "Some site coordinates are correct.", "Some measurements must be double-checked."],
+        "correct_answer": "She will bring lunch for Ms. Evers.",
+        "explanation": "Cô Chi trả lời 'Sure thing' ngay sau khi cô Evers yêu cầu 'Get me a chicken sandwich'.",
+        "tag": "Reading-Inference"
+      }
+    ]
+  },
+  {
+    "part": 7,
+    "level": 300,
+    "passage": "Zippy Petrol Mart \n23 May \nBiscuits: £2.00 \nFruit cup: £0.95 \nCrisps: £1.10 \nTotal: £4.86 \nSign up for our Zippy Club rewards card. ",
+    "questions": [
+      {
+        "question_text": "What was purchased on May 23?",
+        "options": ["Fuel", "Snacks", "Auto parts", "Phone accessories"],
+        "correct_answer": "Snacks",
+        "explanation": "Các món hàng bao gồm biscuits, fruit cup và crisps đều là snacks.",
+        "tag": "Reading-Detail"
+      },
+      {
+        "question_text": "What does the receipt indicate about Zippy Petrol Mart?",
+        "options": ["It has multiple locations.", "It accepts most major credit cards.", "It has a customer rewards program.", "It reduced the prices of all its merchandise."],
+        "correct_answer": "It has a customer rewards program.",
+        "explanation": "Biên lai nhắc đến 'Zippy Club rewards card'.",
+        "tag": "Reading-Detail"
+      }
+    ]
+  },
+  {
+    "part": 7,
+    "level": 300,
+    "passage": "NOTICE \nSelino Apartments public areas will be painted according to the following schedule: \n- Stairwells, 1st and 2nd floors: 12 April \n- Hallways, 1st and 2nd floors: 13 April \nThe elevators will be available during this time. ",
+    "questions": [
+      {
+        "question_text": "For whom is the notice most likely intended?",
+        "options": ["Painting contractors", "Elevator repair workers", "Graphic artists", "Apartment residents"],
+        "correct_answer": "Apartment residents.",
+        "explanation": "Thông báo về việc sơn lại khu vực công cộng của chung cư phục vụ cư dân.",
+        "tag": "Reading-Detail"
+      }
+    ]
+  },
+  {
+    "part": 7,
+    "level": 300,
+    "passage": "MEMO\nTo: All Employees\nFrom: Facilities Management\n\nWe have installed a new high-speed coffee machine in the 3rd-floor breakroom. Please read the instructions on the wall before use. Enjoy!",
+    "questions": [
+      {
+        "question_text": "What has been recently added to the office?",
+        "options": ["A new computer", "A coffee machine", "A printer", "A microwave"],
+        "correct_answer": "A coffee machine",
+        "explanation": "Văn bản nêu rõ 'installed a new high-speed coffee machine'.",
+        "tag": "Reading-Detail"
+      }
+    ]
+  },
+  {
+    "part": 7,
+    "level": 300,
+    "passage": "Business Card:\nMarcus J. Arlo, Senior Architect\nArlo Design & Associates\n124 Skyline Drive, Seattle, WA\nEmail: marcus.arlo@arlodesign.com",
+    "questions": [
+      {
+        "question_text": "What is Mr. Arlo's profession?",
+        "options": ["Lawyer", "Architect", "Accountant", "Sales Manager"],
+        "correct_answer": "Architect",
+        "explanation": "Danh thiếp ghi rõ 'Senior Architect'.",
+        "tag": "Reading-Detail"
+      }
+    ]
+  },
+  {
+    "part": 7,
+    "level": 500,
+    "passage": "Dine Out Darville Is Back! Dine Out Darville, which runs this year from June 22 to 28, Twelve popular restaurants will offer special dinners all for a reduced price of $30. Visit www.darvillebusinesscouncil.org/dineout.",
+    "questions": [
+      {
+        "question_text": "What is mentioned about Dine Out Darville?",
+        "options": ["It lasts for one week.", "It is held in a different location each year.", "It is being held for the first time.", "It includes both lunch and dinner."],
+        "correct_answer": "It lasts for one week.",
+        "explanation": "Sự kiện diễn ra từ 22 đến 28 tháng 6, tức là 1 tuần.",
+        "tag": "Reading-Detail"
+      }
+    ]
+  },
+  {
+    "part": 7,
+    "level": 500,
+    "passage": "Owl and Moon: Buy one mattress, and choose one of our beautiful rugs for free! Try out a mattress for 90 days, and if you are not happy with it, send it back for a full refund.",
+    "questions": [
+      {
+        "question_text": "What is indicated about the company?",
+        "options": ["It has been in business for two years.", "It accepts product returns.", "It has same-day delivery.", "It has a yearly sale."],
+        "correct_answer": "It accepts product returns.",
+        "explanation": "Công ty cho phép trả lại hàng sau 90 ngày nếu không hài lòng.",
+        "tag": "Reading-Detail"
+      }
+    ]
+  },
+  {
+    "part": 7,
+    "level": 500,
+    "passage": "CITY OF BRYANTON Building Permit Office Notice: Beginning on July 1, the Office will be open from Monday to Thursday, 9:00 A.M. to 5:00 P.M. Applications will no longer be accepted on Fridays.",
+    "questions": [
+      {
+        "question_text": "What change is the Office making?",
+        "options": ["Moving to a new location.", "Simplifying the process.", "Reducing the days it accepts applications.", "Increasing processing time."],
+        "correct_answer": "Reducing the days it accepts applications.",
+        "explanation": "Văn phòng sẽ không còn chấp nhận đơn vào thứ Sáu.",
+        "tag": "Reading-Detail"
+      }
+    ]
+  },
+  {
+    "part": 7,
+    "level": 500,
+    "passage": "News: City Park Expansion\nThe Green Space Council has approved the expansion of Central Park. The project will add 10 acres of walking paths and a new playground. Work will begin in August.",
+    "questions": [
+      {
+        "question_text": "What will be added to Central Park?",
+        "options": ["A swimming pool", "Walking paths", "A library", "A tennis court"],
+        "correct_answer": "Walking paths",
+        "explanation": "Dự án sẽ bổ sung 10 mẫu đường đi bộ.",
+        "tag": "Reading-Detail"
+      }
+    ]
+  },
+  {
+    "part": 7,
+    "level": 500,
+    "passage": "Email Confirmation:\nDear Guest, your reservation at the Blue Bay Resort is confirmed for September 12-14. Check-in is at 3 P.M. Cancellations made within 24 hours will incur a fee.",
+    "questions": [
+      {
+        "question_text": "What time can guests check in?",
+        "options": ["9 A.M.", "12 P.M.", "3 P.M.", "5 P.M."],
+        "correct_answer": "3 P.M.",
+        "explanation": "Văn bản xác nhận 'Check-in is at 3 P.M.'.",
+        "tag": "Reading-Detail"
+      }
+    ]
+  },
+  {
+    "part": 7,
+    "level": 750,
+    "passage": "[Văn bản 1 - Email]: Conor Boyle will deliver items to you in Stranraer myself on 5 June. [Văn bản 2 - Vé phà]: Passenger: Conor Boyle. Departing Belfast: Friday, 5 June, 1:05 PM. Docking at Cairnryan: 3:20 PM.",
+    "questions": [
+      {
+        "question_text": "How is Mr. Boyle traveling to Cairnryan on June 5?",
+        "options": ["By car", "By train", "By boat", "By plane"],
+        "correct_answer": "By boat",
+        "explanation": "Vé phà (Ferry Service) chứng minh việc đi bằng đường thủy.",
+        "tag": "Reading-Inference"
+      }
+    ]
+  },
+  {
+    "part": 7,
+    "level": 750,
+    "passage": "[Văn bản 1 - Thông báo]: 10% discount for orders over $4,000. [Văn bản 2 - Hóa đơn]: Client: Green Canyon. Subtotal: $4,650.00. Discount (10%): $465.00.",
+    "questions": [
+      {
+        "question_text": "Why did Green Canyon receive a discount?",
+        "options": ["Charity", "Frequent Buyer", "Spent more than $4,000", "Near location"],
+        "correct_answer": "Spent more than $4,000",
+        "explanation": "Hóa đơn $4,650 vượt mốc $4,000 quy định.",
+        "tag": "Reading-Inference"
+      }
+    ]
+  },
+  {
+    "part": 7,
+    "level": 750,
+    "passage": "[Văn bản 1 - Chính sách]: George Street Sweets offers delivery within 10 km for £2.50. [Văn bản 2 - Hóa đơn]: Location: 2 Spen Lane. Delivery Cost: £2.50.",
+    "questions": [
+      {
+        "question_text": "What is suggested about 2 Spen Lane?",
+        "options": ["Parking available", "Within 10 kilometers of the store", "Residential building", "Owned by Ms. Schwartz"],
+        "correct_answer": "Within 10 kilometers of the store",
+        "explanation": "Phí ship £2.50 chỉ áp dụng cho phạm vi 10km.",
+        "tag": "Reading-Inference"
+      }
+    ]
+  },
+  {
+    "part": 7,
+    "level": 750,
+    "passage": "[Văn bản 1 - Job Ad]: Seeking Graphic Designer with 3+ years experience. Apply by email. [Văn bản 2 - Email]: Dear Hiring Manager, I am applying for the Designer role. I have worked in design since 2021.",
+    "questions": [
+      {
+        "question_text": "Is the applicant qualified based on experience?",
+        "options": ["Yes", "No", "Only for junior role", "Experience not mentioned"],
+        "correct_answer": "Yes",
+        "explanation": "Làm việc từ 2021 đến nay (2026) là 5 năm, thỏa mãn yêu cầu 3+ năm.",
+        "tag": "Reading-Inference"
+      }
+    ]
+  },
+  {
+    "part": 7,
+    "level": 750,
+    "passage": "[Văn bản 1 - Schedule]: Tech Seminar, June 10. Room 402. [Văn bản 2 - Email]: Hi, I registered for the June 10 seminar. Please confirm the room number.",
+    "questions": [
+      {
+        "question_text": "What room should be confirmed?",
+        "options": ["Room 10", "Room 300", "Room 402", "Room 500"],
+        "correct_answer": "Room 402",
+        "explanation": "Lịch trình ghi rõ hội thảo tại phòng 402.",
+        "tag": "Reading-Detail"
+      }
+    ]
+  },
+  {
+    "part": 7,
+    "level": 900,
+    "passage": "[Văn bản 1 - Skyler Airlines]: 3 years 'Best Airline to Work For'. [Văn bản 2 - Benefits]: Discounted flights for staff. [Văn bản 3 - Survey]: NOT mentioned: Free tickets.",
+    "questions": [
+      {
+        "question_text": "In the information, what is NOT mentioned as being offered?",
+        "options": ["Payment for education", "Free airline tickets", "Mentoring", "Paid days off"],
+        "correct_answer": "Free airline tickets",
+        "explanation": "Chỉ có 'Discounted flights' (giảm giá), không phải 'Free' (miễn phí).",
+        "tag": "Reading-Detail"
+      }
+    ]
+  },
+  {
+    "part": 7,
+    "level": 900,
+    "passage": "Medillo Shoes Celebrates Twenty Years in Cape Town! specialist in supportive footwear. Visit on 10 May for 20% off. Schedule a consultation online.",
+    "questions": [
+      {
+        "question_text": "What is true about Medillo Shoes?",
+        "options": ["10 years in business", "Athletic footwear", "Near medical center", "Allows appointments"],
+        "correct_answer": "Allows appointments.",
+        "explanation": "Văn bản nhắc đến việc 'Schedule a consultation'.",
+        "tag": "Reading-Detail"
+      }
+    ]
+  },
+  {
+    "part": 7,
+    "level": 900,
+    "passage": "[Văn bản 1 - Ad]: TTA online classes. [Văn bản 2 - Forum]: Joseph Egbe took poster class in Jan, now in TTA1504. [Văn bản 3 - Catalog]: TTA1504: Introduction to Social Media Marketing.",
+    "questions": [
+      {
+        "question_text": "What class is Mr. Egbe enrolled in?",
+        "options": ["Social Media Marketing", "Freelance Writer", "Radio Station", "Graphic Design"],
+        "correct_answer": "Social Media Marketing",
+        "explanation": "Egbe đang học TTA1504, tức là Social Media Marketing.",
+        "tag": "Reading-Inference"
+      }
+    ]
+  },
+  {
+    "part": 7,
+    "level": 900,
+    "passage": "[Văn bản 1 - Schedule]: Marketing Conference. [Văn bản 2 - Email]: Olek Dzik sent video from Grindstone Marketing Group. [Văn bản 3 - Article]: Olek Dzik is President of KD Building Concepts.",
+    "questions": [
+      {
+        "question_text": "Who created the video mentioned in the email?",
+        "options": ["KD Building Concepts", "Grindstone Marketing Group", "Sheffield Media", "Olek Dzik himself"],
+        "correct_answer": "Grindstone Marketing Group",
+        "explanation": "Email xác nhận video được gửi từ Grindstone Marketing Group.",
+        "tag": "Reading-Inference"
+      }
+    ]
+  },
+  {
+    "part": 7,
+    "level": 900,
+    "passage": "[Văn bản 1 - Environment Policy]: Reduce waste by 20% by 2027. [Văn bản 2 - Action Plan]: Install recycling bins in all departments. [Văn bản 3 - Report 2026]: Waste reduced by 12% so far.",
+    "questions": [
+      {
+        "question_text": "What is the company's ultimate waste reduction goal?",
+        "options": ["12%", "20%", "26%", "2027%"],
+        "correct_answer": "20%",
+        "explanation": "Chính sách đề ra mục tiêu giảm 20% lượng rác thải.",
+        "tag": "Reading-Detail"
+      }
+    ]
+  }
+]

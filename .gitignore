@@ -1,0 +1,33 @@
+# Node
+node_modules/
+frontend/node_modules/
+
+# Python
+venv/
+.venv/
+backend/lingai/venv/
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Environment files
+.env
+*.env
+backend/lingai/.env
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+backend/lingai/*.db
+
+# Build outputs
+frontend/build/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
