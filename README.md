@@ -1,100 +1,45 @@
 # Pengwin - AI English Learning Platform
 
-## System Requirements
+## Chay nhanh bang 3 terminal
 
-Make sure your system meets the following requirements before running the project:
+Luu y: dung `venv` (Python 3.12), khong dung `.venv` de tranh loi `pydantic-core`.
 
-* **Python:** `>= 3.11` (supports `datetime.UTC`)
-* **Node.js:** `>= 18.x`
-* **Database:** SQLite *(pre-configured in the project)*
+### Terminal 1: Backend (install + seed + run)
 
----
-
-## Installation & Running Guide
-
-### 1. Backend (FastAPI)
-
-#### Step 1: Navigate to backend folder
-
-```bash
-cd backend/lingai
+```powershell
+cd E:\dtdm
+if (Get-Command deactivate -ErrorAction SilentlyContinue) { deactivate }
+.\venv\Scripts\Activate.ps1
+cd .\backend\lingai
+python -m pip install -r requirements.txt
+python seed.py
+python -m uvicorn app.main:app --host 0.0.0.0 --port 8001 --reload
 ```
 
-#### Step 2: Install dependencies
+### Terminal 2: Gateway
 
-```bash
-pip install -r requirements.txt
+```powershell
+cd E:\dtdm
+.\venv\Scripts\Activate.ps1
+python gateway_fix.py
 ```
 
-#### Step 3: Run the server
+### Terminal 3: Frontend
 
-```bash
-python -m uvicorn app.main:app --reload
-```
-
-#### API Documentation
-
-* Swagger UI: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
-
----
-
-### 2. Frontend (ReactJS)
-
-#### Step 1: Navigate to frontend folder
-
-```bash
-cd lingai-frontend
-```
-
-#### Step 2: Install dependencies
-
-```bash
+```powershell
+cd E:\dtdm\frontend
 npm install
+npm run dev
 ```
 
-#### Step 3: Start the application
+## URL
 
-```bash
-npm start
-```
+- Frontend: http://localhost:3000
+- Backend docs: http://127.0.0.1:8001/docs
+- Gateway API: http://127.0.0.1:8000/api/v1
 
-#### Web Interface
+## Demo Accounts
 
-* URL: [http://localhost:3000](http://localhost:3000)
-
----
-
-## Project Structure (Optional)
-
-```text
-ai-english-learning-platform/
-|-- backend/
-|   `-- lingai/
-|       `-- app/
-|
-|-- lingai-frontend/
-|
-`-- README.md
-```
-
----
-
-## Notes
-
-* Ensure backend is running before starting frontend.
-* Default ports:
-	* Backend: `8000`
-	* Frontend: `3000`
-* SQLite database is automatically initialized.
-
----
-
-## Tips
-
-* Use virtual environment for Python:
-
-```bash
-python -m venv venv
-venv\Scripts\activate     # Windows
-source venv/bin/activate   # Linux/Mac
-```
+- Student: an@pengwin.com / student123
+- Creator: creator@pengwin.com / creator123
+- Admin: admin@pengwin.com / admin123

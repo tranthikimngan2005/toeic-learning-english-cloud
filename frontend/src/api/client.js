@@ -1,4 +1,4 @@
-﻿const BASE = process.env.REACT_APP_API_URL || 'http://localhost:8000';
+﻿const BASE = (process.env.REACT_APP_API_URL || 'http://localhost:8000/api/v1').replace(/\/$/, '');
 const REQUEST_TIMEOUT_MS = 8000;
 
 function getToken() {
@@ -56,99 +56,104 @@ export const api = {
 
 // Auth
 export const authApi = {
-  register: (data)             => api.post('/api/auth/register', data),
+  register: (data)             => api.post('/auth/register', data),
   login: (email, password) => {
     const fd = new URLSearchParams();
     fd.append('username', email);
     fd.append('password', password);
-    return api.postForm('/api/auth/login', fd);
+    return api.postForm('/auth/login', fd);
   },
 };
 
 // Users
 export const userApi = {
-  me:        ()    => api.get('/api/users/me'),
-  dashboard: ()    => api.get('/api/users/me/dashboard'),
-  progress:  ()    => api.get('/api/users/me/progress'),
+  me:        ()    => api.get('/users/me'),
+  dashboard: ()    => api.get('/users/me/dashboard'),
+  progress:  ()    => api.get('/users/me/progress'),
 };
 
 // Lessons
 export const lessonApi = {
   list:     (params = {}) => {
     const q = new URLSearchParams(params).toString();
-    return api.get(`/api/lessons${q ? '?' + q : ''}`);
+    return api.get(`/lessons${q ? '?' + q : ''}`);
   },
-  get:      (id)           => api.get(`/api/lessons/${id}`),
-  create:   (data)         => api.post('/api/lessons', data),
-  update:   (id, data)     => api.put(`/api/lessons/${id}`, data),
-  delete:   (id)           => api.delete(`/api/lessons/${id}`),
-  moderate: (id, status)   => api.patch(`/api/lessons/${id}/moderate`, { status }),
+  get:      (id)           => api.get(`/lessons/${id}`),
+  create:   (data)         => api.post('/lessons', data),
+  update:   (id, data)     => api.put(`/lessons/${id}`, data),
+  delete:   (id)           => api.delete(`/lessons/${id}`),
+  moderate: (id, status)   => api.patch(`/lessons/${id}/moderate`, { status }),
 };
 
 // Questions
 export const questionApi = {
   list:     (params = {}) => {
     const q = new URLSearchParams(params).toString();
-    return api.get(`/api/questions${q ? '?' + q : ''}`);
+    return api.get(`/questions${q ? '?' + q : ''}`);
   },
-  create:   (data)         => api.post('/api/questions', data),
-  update:   (id, data)     => api.put(`/api/questions/${id}`, data),
-  delete:   (id)           => api.delete(`/api/questions/${id}`),
-  moderate: (id, status)   => api.patch(`/api/questions/${id}/moderate`, { status }),
+  random:   (part = null)  => api.get(`/questions/random${part != null ? `?part=${encodeURIComponent(part)}` : ''}`),
+  create:   (data)         => api.post('/questions', data),
+  update:   (id, data)     => api.put(`/questions/${id}`, data),
+  delete:   (id)           => api.delete(`/questions/${id}`),
+  moderate: (id, status)   => api.patch(`/questions/${id}/moderate`, { status }),
   startPractice: (skill, count = 10, part = null) =>
-    api.post('/api/questions/practice/start', { skill, count, part }),
+    api.post('/questions/practice/start', { skill, count, part }),
   submitAnswer: (question_id, user_answer) =>
-    api.post('/api/questions/practice/submit', { question_id, user_answer }),
+    api.post('/questions/practice/submit', { question_id, user_answer }),
   recommendations: () =>
-    api.get('/api/recommendations'),
+    api.get('/recommendations'),
 };
 
 // Review
 export const reviewApi = {
-  due:    ()               => api.get('/api/review/due'),
-  srs:    ()               => api.get('/api/review/srs'),
-  mistakes: ()             => api.get('/api/review/mistakes'),
-  recentMistakes: ()       => api.get('/api/review/recent-mistakes'),
-  submit: (card_id, result) => api.post('/api/review/submit', { card_id, result }),
+  due:    ()               => api.get('/review/due'),
+  srs:    ()               => api.get('/review/srs'),
+  mistakes: ()             => api.get('/review/mistakes'),
+  recentMistakes: ()       => api.get('/review/recent-mistakes'),
+  submit: (card_id, result) => api.post('/review/submit', { card_id, result }),
 };
 
 export const flashcardApi = {
   list: (params = {}) => {
     const q = new URLSearchParams(params).toString();
-    return api.get(`/api/flashcards${q ? '?' + q : ''}`);
+    return api.get(`/flashcards${q ? '?' + q : ''}`);
   },
   match: (params = {}) => {
     const q = new URLSearchParams(params).toString();
-    return api.get(`/api/flashcards/match${q ? '?' + q : ''}`);
+    return api.get(`/flashcards/match${q ? '?' + q : ''}`);
   },
   manageList: (params = {}) => {
     const q = new URLSearchParams(params).toString();
-    return api.get(`/api/flashcards/manage${q ? '?' + q : ''}`);
+    return api.get(`/flashcards/manage${q ? '?' + q : ''}`);
   },
-  create: (data) => api.post('/api/flashcards/manage', data),
-  update: (id, data) => api.put(`/api/flashcards/manage/${id}`, data),
-  delete: (id) => api.delete(`/api/flashcards/manage/${id}`),
+  create: (data) => api.post('/flashcards/manage', data),
+  update: (id, data) => api.put(`/flashcards/manage/${id}`, data),
+  delete: (id) => api.delete(`/flashcards/manage/${id}`),
 };
 
 // Chat
 export const chatApi = {
-  history:      ()      => api.get('/api/chat/history'),
-  send:         (content) => api.post('/api/chat/send', { content }),
-  generate:     (content, system_prompt) => api.post('/api/chat/generate', { content, system_prompt }),
-  saveAI:       (content) => api.post('/api/chat/ai-response', { content }),
-  systemPrompt: ()      => api.get('/api/chat/system-prompt'),
-  clear:        ()      => api.delete('/api/chat/history'),
+  history:      ()      => api.get('/chat/history'),
+  send:         (content) => api.post('/chat/send', { content }),
+  generate:     (content, system_prompt) => api.post('/chat/generate', { content, system_prompt }),
+  saveAI:       (content) => api.post('/chat/ai-response', { content }),
+  systemPrompt: ()      => api.get('/chat/system-prompt'),
+  clear:        ()      => api.delete('/chat/history'),
 };
 
 // Admin
 export const adminApi = {
-  stats:           ()           => api.get('/api/admin/stats'),
-  users:           ()           => api.get('/api/admin/users'),
-  usersOverview:   ()           => api.get('/api/admin/users/overview'),
-  failedTags:      ()           => api.get('/api/admin/reports/failed-tags'),
-  changeRole:      (id, role)   => api.patch(`/api/admin/users/${id}/role`, { role }),
-  ban:             (id, active) => api.patch(`/api/admin/users/${id}/ban`, { is_active: active }),
-  pendingLessons:  ()           => api.get('/api/admin/content/pending/lessons'),
-  moderateL:       (id, status) => api.patch(`/api/lessons/${id}/moderate`, { status }),
+  stats:           ()           => api.get('/admin/stats'),
+  users:           ()           => api.get('/admin/users'),
+  usersOverview:   ()           => api.get('/admin/users/overview'),
+  failedTags:      ()           => api.get('/admin/reports/failed-tags'),
+  changeRole:      (id, role)   => api.patch(`/admin/users/${id}/role`, { role }),
+  ban:             (id, active) => api.patch(`/admin/users/${id}/ban`, { is_active: active }),
+  pendingLessons:  ()           => api.get('/admin/content/pending/lessons'),
+  moderateL:       (id, status) => api.patch(`/lessons/${id}/moderate`, { status }),
+};
+
+export const analyticsApi = {
+  upload: (data) => api.post('/analytics/upload', data),
 };
 

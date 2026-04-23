@@ -1,6 +1,6 @@
 import { useEffect, useState, useCallback, useMemo, useRef } from 'react';
 import { useSearchParams } from 'react-router-dom';
-import { questionApi } from '../api/client';
+import { analyticsApi, questionApi } from '../api/client';
 import { useToast } from '../context/ToastContext';
 import { IMG_VOCAB, IMG_PROGRESS, IMG_HERO } from '../assets/images';
 import QuestionCard from '../components/QuestionCard';
@@ -88,7 +88,7 @@ export default function Practice() {
   const [count, setCount] = useState(10);
 
   const [questions, setQuestions] = useState([]);
-  const [idx, setIdx] = useState(0);
+  const [currentIndex, setCurrentIndex] = useState(0);
   const [answer, setAnswer] = useState('');
   const [result, setResult] = useState(null);
 
@@ -104,6 +104,7 @@ export default function Practice() {
 
   const questionListRef = useRef(null);
   const questionNodeRefs = useRef({});
+  const analyticsUploadedRef = useRef(false);
 
   const markPracticeFinished = useCallback(() => {
     const stamp = String(Date.now());
@@ -123,7 +124,26 @@ export default function Practice() {
 
   const currentGroup = groups[groupIdx] || null;
   const currentGroupQuestions = currentGroup?.questions || [];
-  const activeMetaQuestion = isGroupMode ? currentGroupQuestions[0] : questions[idx];
+  const activeMetaQuestion = isGroupMode ? currentGroupQuestions[0] : questions[currentIndex];
+
+  useEffect(() => {
+    if (step !== 'done' || analyticsUploadedRef.current) return;
+    analyticsUploadedRef.current = true;
+
+    const payload = {
+      exported_at: new Date().toISOString(),
+      reading_part: Number(readingPart),
+      mode: isGroupMode ? 'passage' : 'single',
+      score,
+      total_questions: isGroupMode
+        ? groups.reduce((acc, g) => acc + (Array.isArray(g?.questions) ? g.questions.length : 0), 0)
+        : questions.length,
+    };
+
+    analyticsApi.upload(payload).catch(() => {
+      analyticsUploadedRef.current = false;
+    });
+  }, [step, score, readingPart, isGroupMode, groups, questions.length]);
 
   const allGroupAnswered = useMemo(() => {
     if (!isGroupMode || !currentGroupQuestions.length) return false;
@@ -145,7 +165,8 @@ export default function Practice() {
       setScore({ correct: 0, total: 0 });
       setResult(null);
       setAnswer('');
-      setIdx(0);
+      setCurrentIndex(0);
+      analyticsUploadedRef.current = false;
 
       if (Number(readingPart) === 6 || Number(readingPart) === 7) {
         const apiPassages = Array.isArray(data?.passages) ? data.passages : [];
@@ -184,7 +205,8 @@ export default function Practice() {
         setCheckedGroupKeys({});
         setQuestions([]);
       } else {
-        const pickedQuestions = (Array.isArray(data?.questions) ? data.questions : []).filter(
+        const randomQuestions = await questionApi.random(readingPart);
+        const pickedQuestions = (Array.isArray(randomQuestions) ? randomQuestions : []).filter(
           (q) => Number(q?.part) === Number(readingPart)
         );
         if (!pickedQuestions.length) {
@@ -221,7 +243,7 @@ export default function Practice() {
       return;
     }
 
-    const currentQ = questions[idx];
+    const currentQ = questions[currentIndex];
     if (!currentQ) return;
 
     setSubmitting(true);
@@ -264,12 +286,12 @@ export default function Practice() {
   };
 
   const handleSingleNext = () => {
-    if (idx + 1 >= questions.length) {
+    if (currentIndex + 1 >= questions.length) {
       markPracticeFinished();
       setStep('done');
       return;
     }
-    setIdx((i) => i + 1);
+    setCurrentIndex((i) => i + 1);
     setAnswer('');
     setResult(null);
   };
@@ -485,7 +507,7 @@ export default function Practice() {
     );
   }
 
-  const singleQuestion = questions[idx];
+  const singleQuestion = questions[currentIndex];
   const singleQuestionText = singleQuestion?.question_text || singleQuestion?.content || '';
   const singleType = singleQuestion?.q_type || ((singleQuestion?.options && singleQuestion.options.length) ? 'mcq' : null);
 
@@ -502,7 +524,7 @@ export default function Practice() {
         </div>
         <div className="practice-progress">
           <span style={{ fontSize: 13, color: 'var(--text2)', fontWeight: 700 }}>
-            {isGroupMode ? `${groupCompletion.current} / ${groupCompletion.total}` : `${idx + 1} / ${questions.length}`}
+            {isGroupMode ? `${groupCompletion.current} / ${groupCompletion.total}` : `${currentIndex + 1} / ${questions.length}`}
           </span>
           <div className="progress-wrap" style={{ width: 120 }}>
             <div
@@ -510,7 +532,7 @@ export default function Practice() {
               style={{
                 width: `${isGroupMode
                   ? (groupCompletion.current / Math.max(groupCompletion.total, 1)) * 100
-                  : ((idx + 1) / Math.max(questions.length, 1)) * 100
+                  : ((currentIndex + 1) / Math.max(questions.length, 1)) * 100
                 }%`,
               }}
             />
@@ -523,7 +545,7 @@ export default function Practice() {
         {(isGroupMode ? groups : questions).map((_, i) => (
           <div
             key={i}
-            className={`step-dot ${i < (isGroupMode ? groupIdx : idx) ? 'done' : i === (isGroupMode ? groupIdx : idx) ? 'current' : ''}`}
+            className={`step-dot ${i < (isGroupMode ? groupIdx : currentIndex) ? 'done' : i === (isGroupMode ? groupIdx : currentIndex) ? 'current' : ''}`}
           />
         ))}
       </div>
@@ -702,7 +724,7 @@ export default function Practice() {
           </button>
         ) : (
           <button className="btn btn-primary" onClick={handleSingleNext}>
-            {idx + 1 >= questions.length ? 'View results →' : 'Next question →'}
+            {currentIndex + 1 >= questions.length ? 'Quiz Complete' : 'Next question →'}
           </button>
         )}
 

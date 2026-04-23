@@ -4,6 +4,7 @@ import hashlib
 from typing import Optional
 from fastapi import APIRouter, Depends, HTTPException, Query
 from sqlalchemy.orm import Session
+from sqlalchemy.sql import func
 from app.core.database import get_db
 from app.core.security import get_current_user, require_role
 from app.models.user import (
@@ -26,6 +27,18 @@ from app.services.streak import update_streak
 from app.services.recommendation import get_recommendations, track_user_error
 
 router = APIRouter(prefix="/api/questions", tags=["Questions"])
+
+
+@router.get("/random", response_model=list[QuestionOut])
+def random_questions(
+    part: Optional[int] = Query(None),
+    db: Session = Depends(get_db),
+    current_user: User = Depends(get_current_user),
+):
+    query = db.query(Question).filter(Question.status == ContentStatusEnum.approved)
+    if part is not None:
+        query = query.filter(Question.part == part)
+    return query.order_by(func.random()).limit(10).all()
 
 
 def _extract_blank_number(question: Question) -> int:

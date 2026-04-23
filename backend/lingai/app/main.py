@@ -6,7 +6,7 @@ from app.core.database import Base, engine
 from app.core.database import get_db
 from app.core.security import get_current_user
 from app.models.user import User
-from app.routers import auth, users, lessons, questions, review, chat, admin, flashcards
+from app.routers import auth, users, lessons, questions, review, chat, admin, flashcards, analytics
 from app.services.recommendation import get_recommendations
 
 # Create all tables on startup
@@ -34,6 +34,7 @@ app.include_router(review.router)
 app.include_router(flashcards.router)
 app.include_router(chat.router)
 app.include_router(admin.router)
+app.include_router(analytics.router)
 
 
 @app.get("/", tags=["Health"])
