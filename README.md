@@ -43,3 +43,4 @@ npm run dev
 - Student: an@pengwin.com / student123
 - Creator: creator@pengwin.com / creator123
 - Admin: admin@pengwin.com / admin123
+//const BASE = (process.env.REACT_APP_API_URL || 'http://localhost:8000/api/v1').replace(/\/$/, '');
