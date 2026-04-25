@@ -14,18 +14,20 @@ Base.metadata.create_all(bind=engine)
 
 app = FastAPI(
     title="Pengwin Backend",
-    description="English learning platform API — skills, practice, spaced repetition, AI chat",
+    description="English learning platform API",
     version="1.0.0",
 )
 
+# Configure CORS so Vercel frontend is not blocked.
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],   # tighten in production
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
+# Do not add prefix="/api/v1" here because frontend calls routes directly.
 app.include_router(auth.router)
 app.include_router(users.router)
 app.include_router(lessons.router)
