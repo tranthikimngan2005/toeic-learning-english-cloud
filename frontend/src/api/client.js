@@ -1,5 +1,4 @@
 ﻿const BASE = (process.env.REACT_APP_API_URL || 'https://toeic-learning-english-cloud.onrender.com').replace(/\/$/, '');
-//const BASE = (process.env.REACT_APP_API_URL || 'http://localhost:8000/api/v1').replace(/\/$/, '');
 const REQUEST_TIMEOUT_MS = 8000;
 
 function getToken() {
