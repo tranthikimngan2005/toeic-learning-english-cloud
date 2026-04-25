@@ -1,6 +1,6 @@
-﻿import axios from 'axios';
-const BASE = 'https://toeic-learning-english-cloud.onrender.com';
-const REQUEST_TIMEOUT_MS = 15000;
+﻿const BASE = (process.env.REACT_APP_API_URL || 'https://toeic-learning-english-cloud.onrender.com').replace(/\/$/, '');
+//const BASE = (process.env.REACT_APP_API_URL || 'http://localhost:8000/api/v1').replace(/\/$/, '');
+const REQUEST_TIMEOUT_MS = 8000;
 
 function getToken() {
   return localStorage.getItem('pengwin_token');
@@ -25,7 +25,7 @@ async function request(method, path, body, opts = {}) {
     });
   } catch (err) {
     if (err?.name === 'AbortError') {
-      throw new Error('Server Render dang khoi dong, vui long thu lai sau 30s.');
+      throw new Error('Request timeout. Please check backend server and try again.');
     }
     throw err;
   } finally {
